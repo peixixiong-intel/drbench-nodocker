@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Server Room Security: May 2025
+
+Slide 2:
+Introduction As we continue to elevate security measures, we've implemented crucial biometric upgrades for our server room. This presentation will detail the upgrades deployed in May 2025 by Jason Wong and the IT &amp; Security team.
+
+Slide 3:
+Evolution of Lee's Market Server Room Security Established in 2010, the IT &amp; Security department began with basic password protection In 2015, the team introduced 2-factor authentication for server room access In 2018, CCTV cameras were added to monitor physical access to the server room In 2020, the department implemented a system of unique keycards for each employee In 2022, Lee's Market initiated regular security audits and vulnerability assessments 2024 saw the introduction of a dedicated cybersecurity team within the department
+
+Slide 4:
+Biometric Upgrades: An Overview Biometric systems offer a high level of security compared to traditional methods These systems can include fingerprint scanning, facial recognition, iris scanning, and voice recognition Biometric systems can be used to restrict physical access to locations or digital access to information Many businesses use biometric systems to enhance security and streamline access control Biometrics can be integrated with other security measures for a multi-layered approach Ongoing maintenance and updates are crucial to ensure the effectiveness of biometric systems
+
+Slide 5:
+Implications and Benefits of the May 2025 Upgrades Improved security measures can help protect against internal and external threats Enhanced security can boost customer trust and corporate reputation Regular upgrades reflect a commitment to data protection and privacy Security upgrades can potentially lead to lower insurance costs These measures can reduce the risk of data breaches and associated financial losses Upgraded security can also improve regulatory compliance
+
+Slide 6:
+Conclusion The biometric upgrades we've implemented significantly enhance our server room security, aligning with our commitment to data protection. Moving forward, we'll continue to identify and implement advanced security measures to safeguard our systems.

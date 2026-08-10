@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Securing Staff Devices: June 2025 Update
+
+Slide 2:
+Introduction Our presentation today will delve into the recent information security measures taken for Lee's Market staff devices. We'll focus on the encryption protocol implemented in June 2025.
+
+Slide 3:
+Overview of Staff Device Security Implementation of Two-Factor Authentication (2FA) for all staff devices in 2024 Launch of a new VPN service for remote access in Q3 2025 Adoption of biometric authentication for corporate smartphones in Q1 2025 Regular security audits conducted by internal IT team Rollout of mandatory monthly security training for all staff Inclusion of a remote wipe feature for all staff devices to protect data in case of loss/theft
+
+Slide 4:
+Encryption Protocol Selected for June 2025 Adoption of an industry-standard encryption protocol to protect sensitive data Implementation process handled by the Information Security team Regular review of encryption protocol to ensure it meets evolving security needs Protocol selected after thorough assessment of various options Protocol designed to work seamlessly across various device types New protocol does not significantly impact device performance
+
+Slide 5:
+Implications for Staff Training and Compliance Introduction of new training modules to familiarize staff with the new protocol Mandatory completion of training for all staff by end of Q3 2025 Protocol compliance to be monitored on a quarterly basis Non-compliance to be addressed with strict disciplinary actions Continuous improvement of training modules based on staff feedback Provision for one-on-one training sessions for staff needing additional assistance
+
+Slide 6:
+Conclusion The newly implemented encryption protocol represents a significant step forward in our device security. As next steps, we'll be focusing on staff training and ensuring compliance with these new measures.

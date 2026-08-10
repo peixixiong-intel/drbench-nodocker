@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Virtual Patient Access: Q1 2026
+
+Slide 2:
+Introduction In our continuous drive to improve MediConn's patient experience, we need to consider innovative ways to enhance access to our virtual consultations and prescription management services. This presentation will explore potential strategies to reduce wait times and increase satisfaction and retention.
+
+Slide 3:
+Current State: Patient Access and Satisfaction In 2024, we experienced a 42% rate of incomplete booking attempts on our platform. A significant 68% of these incomplete bookings were abandoned during the payment information input phase. The remaining 32% of users ceased their booking during the scheduling phase. Post-booking surveys indicated that a concerning 61% of these patients did not pursue alternate booking methods. A deeper analysis of these figures indicates a potential barrier at the payment and scheduling stages of our platform. The high rate of booking abandonments suggests an opportunity to streamline the user experience and improve patient access. Addressing these issues could lead to improved patient satisfaction and retention.
+
+Slide 4:
+Leveraging Technology to Improve Booking Systems MediConn Solutions is currently using a proprietary online booking system In 2025, we upgraded our system to enhance user interface and functionality Our booking system is compatible with mobile devices and desktop computers We have a dedicated IT team that ensures the smooth operation of our booking system Our system allows patients to easily reschedule or cancel their appointments We utilize cloud-based technology to ensure data security and system reliability
+
+Slide 5:
+Impact on Patient Satisfaction and Retention Our patient retention rate in Q2 2025 was 80%, showing steady growth from 75% the previous year We have a dedicated team for handling patient concerns and inquiries, thus helping to improve patient satisfaction Our patient feedback mechanism allows us to continuously improve our services We have seen a correlation between increased satisfaction and patient referrals We conduct quarterly satisfaction surveys to measure the effectiveness of our customer service initiatives In 2025, we started a loyalty program to further boost patient retention
+
+Slide 6:
+Conclusion By enhancing our patient access strategies through advanced technology, we can significantly reduce wait times and improve overall satisfaction. As we move forward, let's prioritize these initiatives and ensure we're adapting to our patients' evolving needs.

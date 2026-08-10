@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Improving ITSM Strategies at Lee's Market
+
+Slide 2:
+Introduction In light of our expansion, we must revamp our ITSM strategies to address incident, problem, and change management more efficiently. This presentation will explore potential improvements in IT governance, workflow automation, and system integration.
+
+Slide 3:
+Current IT Governance Structure Our Q3 2024 ITSM tracker has revealed a 22% surge in average incident resolution time, highlighting a crucial area for improvement. An identified cause for this increase is the disarticulated IT systems being used by our regional stores, causing inconsistencies and inefficiencies in incident resolution. Lack of standardized processes for incident, problem, and change management across the regions has further compounded the issue. Communication challenges within regional teams have led to inconsistencies in incident management, contributing to escalating resolution times. The fragmentation of our IT systems and processes across regional stores has not only affected incident resolution but also problem and change management. The current scenario underscores the need for a more integrated, standardized IT governance structure to enhance our IT service management. Potential solutions could include IT system integration, automation of workflow, and improvements in governance as evidenced by Thirdera’s success in the retail industry.
+
+Slide 4:
+Potential Workflow Automation Enhancements Introduced a ticketing system automation in 2018 which reduced manual input by 30% Planning to automate software deployment processes in 2027 Exploring cloud-based automation tools for better system monitoring Considering RPA for routine tasks within the IT Service Desk Identified potential for automation in Data Backup and Recovery processes A pilot project for Network Operations automation is planned for Q3, 2026 ITIL processes are being evaluated for possible automation
+
+Slide 5:
+System Integration Opportunities In 2020, we integrated our CRM with the e-commerce platform Looking at options to integrate POS systems with inventory management Exploring API-based integration between ITSM tool and ERP system Identified potential for integration between e-commerce platform and logistics systems In Q2 2025, we integrated our HR system with our IT Service Management tool Considering the integration of our ITSM tool with our Project Management tool
+
+Slide 6:
+Conclusion By strengthening our IT governance, automating workflows, and integrating systems, we can significantly improve our management of IT incidents, problems, and changes. Let's leverage these insights to make informed strategic decisions for our IT operations in 2026.

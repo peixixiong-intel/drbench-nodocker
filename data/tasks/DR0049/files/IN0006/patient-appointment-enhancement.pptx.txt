@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Patient Appointment Experience
+
+Slide 2:
+Introduction As we strive to make our virtual healthcare services more accessible, we need to address some barriers identified in the recent 2022 patient experience report. This presentation will explore potential areas for improvement in our online booking system and customer support processes.
+
+Slide 3:
+Overview of Current Appointment Booking System In Q4 2024, our customer satisfaction scores for support interactions averaged 3.2 out of 5, reflecting areas for improvement. A reported 58% of negative reviews pointed to delays in reaching a representative as a primary concern. This delay in customer support interaction could be contributing to current barriers in booking appointments. Current bottlenecks in customer support may indicate an over-reliance on our call centers. These findings suggest that our customer support process may need streamlining to improve accessibility. Addressing these issues may better position us to meet patient needs and improve our overall patient experience. Strategically, these insights could guide efforts to enhance our digital platform and customer support process.
+
+Slide 4:
+Assessment of Customer Support Interactions The customer support team comprises 50 full-time employees We offer support via phone, email, and live chat The average response time for customer queries is 15 minutes Our team resolved over 90% of the reported issues within 24 hours in 2021 We have implemented a system to escalate complex issues to senior support staff The team participates in quarterly training to improve their product knowledge and communication skills
+
+Slide 5:
+Root Cause Analysis: Booking Challenges We use a structured approach for root cause analysis, including data collection and hypothesis testing The IT department is responsible for maintaining and troubleshooting the booking system The customer support team provides feedback on common user issues We conduct user surveys every six months to understand their pain points An external audit of the booking system was conducted in Q2, 2021 The analysis process also includes review of system logs and error reports
+
+Slide 6:
+Conclusion To improve our patients' experiences, we need to streamline our appointment booking system and refine our customer support processes. Let's prioritize these improvements in our operational plan, ensuring we deliver the best virtual healthcare services in Canada.

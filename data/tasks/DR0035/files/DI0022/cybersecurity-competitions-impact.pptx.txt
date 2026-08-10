@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Cybersecurity Competitions: Facilitation and Impact
+
+Slide 2:
+Introduction In this presentation, we will explore how our IT Director, Jason Wong, implemented internal cyber competitions in May 2025, and the resultant effects on our company's cybersecurity posture. Given our increasing reliance on digital platforms, it's crucial to understand the importance of such initiatives.
+
+Slide 3:
+Cybersecurity Landscape at Lee's Market Lee's Market follows a stringent cybersecurity protocol to protect sensitive customer and business data In 2023, a new firewall system was introduced to enhance network security Regular audits are conducted to ensure compliance with Payment Card Industry Data Security Standard (PCI DSS) Lee's Market has a dedicated cybersecurity team that monitors potential threats 24/7 The cybersecurity team has successfully mitigated over 500 potential data breaches in 2024 Introduced a new password management system in 2024 to increase employee access security
+
+Slide 4:
+Overview of Internal Cyber Competitions Internal cyber competitions aim to educate employees about potential cyber threats The format of the competition often involves a Capture The Flag (CTF) model Employees from all departments are encouraged to participate in the competition The competitions are designed to be engaging and fun, while also being educational Rewards are often provided to the winners of these competitions The competitions are held periodically throughout the year The initiative was first introduced in early 2022.
+
+Slide 5:
+Impact of Cyber Competitions on Security The competitions have increased awareness about cyber threats among employees There has been a 20% reduction in successful phishing attacks since the introduction of the competitions Employees have become more vigilant in identifying and reporting potential risks The competitions have fostered a culture of security within the organization Improved employee morale and team spirit have been observed as an added benefit.
+
+Slide 6:
+Conclusion Our internal cyber competitions, facilitated by Jason Wong, have significantly enhanced our cybersecurity capabilities. Moving forward, we should consider expanding these initiatives to maintain our robust defense against potential threats.

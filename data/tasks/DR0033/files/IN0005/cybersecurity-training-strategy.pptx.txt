@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Cybersecurity Training Strategy for Growth
+
+Slide 2:
+Introduction As Lee's Market expands its footprint across US and Canada, protecting our digital infrastructure from security threats becomes paramount. This presentation outlines our strategy for implementing a robust cybersecurity awareness and training program by 2025 to mitigate risks associated with high employee turnover and seasonal hiring.
+
+Slide 3:
+Current State of Cybersecurity at Lee's Market During the peak holiday season in December 2024, a security training gap was observed as only slightly above half of the new hires were onboarded with cybersecurity training before they received system access. This lack of comprehensive training for 47% of new hires during the busiest retail period potentially exposes Lee's Market to increased cybersecurity risks. The current training process is inconsistent with industry trends, where 78% of temporary retail employees do not receive social engineering training. The gaps in safe internet, social media usage guidance, and mock email phishing training are of particular concern, given VikingCloud's report indicating an industry-wide lack of these critical training components. This situation is exacerbated by the fact that 52% of retailers report inadequate internal IT resources to keep up with the evolving cyberattack methods. The current state of cybersecurity training not only poses a threat to the operational security but also hinders our growth in the U.S. and Canadian markets. A strategic shift in our approach to cybersecurity training is required to ensure the security of our digital and operational infrastructure.
+
+Slide 4:
+Challenges in Maintaining Cybersecurity Amidst High Employee Turnover Temporary employees constitute 35% of our workforce annually Training temporary employees on cybersecurity best practices is a time-consuming process 30% of reported incidents involved temporary employees in 2024 The high turnover rate affects the consistency of our security measures We've seen a rise in phishing attacks targeting temporary employees Employee churn increases the risk of internal threats and data leaks
+
+Slide 5:
+Designing a Cybersecurity Training Program for Sustainable Growth The training program will be developed in line with industry best practices Partnerships with external cybersecurity training providers are being considered Aiming to implement regular training sessions for all new hires Considering an annual refresher course for all employees Plans to develop micro-learning modules for easy access and learning The cost of developing the training program is estimated to be around $1.5M
+
+Slide 6:
+Conclusion Implementing a robust cybersecurity training program is key to safeguarding our digital infrastructure as we grow. Next steps include detailed planning, securing budget approvals, and initiating pilot training sessions in select stores.

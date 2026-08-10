@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+AI-Integrated ITSM for Enhanced Support
+
+Slide 2:
+Introduction With the rise of remote healthcare, MediConn Solutions needs to leverage innovative technologies to enhance IT service management. This presentation explores how AI-integrated ITSM can be utilized to improve support services for our remote care and mobile health apps.
+
+Slide 3:
+Current ITSM Challenges in Remote Healthcare The average response time for incidents related to our mobile health app was around 15 minutes in the third quarter of 2025, pointing towards the need for process optimization. Given the ongoing reliance on remote care, this response time can lead to potential service disruptions affecting patient access to care. ITSM can enable automated evidence collection and audit preparation, helping us maintain regulatory compliance while saving significant time. Knowledge Centered Service (KCS) aspect of ITSM can help reduce incident volume and accelerate resolution times, freeing our IT staff to tackle more complex issues. Implementing AI-integrated ITSM could potentially enhance our support capabilities, further reduce response times, and improve the user experience for both patients and healthcare professionals. By leveraging the potential of AI-integrated ITSM, we can aim to achieve a seamless healthcare experience and meet our strategic goals by Q1 of 2027.
+
+Slide 4:
+AI-Integrated ITSM: A Solution for Enhanced Support Industry reports suggest a 50% increase in AI adoption in ITSM by 2026 AI can automate routine tasks, freeing up IT staff for more complex issues AI-powered chatbots can provide 24/7 support to users Predictive analytics can proactively identify potential IT issues AI can enhance the ITSM platform's self-service capabilities AI can help in generating insightful reports to aid decision-making
+
+Slide 5:
+Regulatory Compliance and User Experience with AI-Integrated ITSM AI can streamline compliance by automating evidence collection AI can improve user experience by reducing response times AI can ensure data security by detecting and mitigating potential threats AI can deliver personalized user experiences based on historical data AI can ensure service continuity with predictive maintenance AI-powered analytics can help in monitoring and maintaining regulatory compliance
+
+Slide 6:
+Conclusion Adopting AI-integrated ITSM offers a strategic opportunity to address our current ITSM challenges while improving support services. As we move forward, it is essential that we remain focused on maintaining regulatory compliance and delivering a seamless user experience.

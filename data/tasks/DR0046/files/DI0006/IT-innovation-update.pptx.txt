@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Innovation in IT: June 2025 Update
+
+Slide 2:
+Introduction In our continuous pursuit for excellence, our IT department has piloted a new innovation in June 2025. This presentation will highlight the details of this innovation and its potential impact on our services.
+
+Slide 3:
+Overview of IT Innovations in Healthcare Implementation of artificial intelligence in telemedicine platforms to predict patient health outcomes Utilization of blockchain technology for secure and tamper-proof patient data storage Emergence of IoT devices for remote patient monitoring and personalized care Use of cloud computing to enhance data accessibility and interoperability Rise in the use of augmented and virtual reality for patient education and training of medical professionals Deployment of machine learning algorithms for efficient patient triage and diagnosis
+
+Slide 4:
+Details of MediConn's Recent IT Pilot Conducted a pilot program on AI-enabled chatbots for 24/7 patient support 150 patients participated in the initial trial phase Launched the pilot in partnership with a leading AI development company The pilot program aimed to reduce response time for patient queries IT and customer service departments collaborated for the pilot's execution Based on the pilot, plans are underway to refine the chatbot's machine learning algorithms
+
+Slide 5:
+Potential Impact and Future Plans AI-chatbot program expected to reduce response time by 30% Future plans include integrating the chatbot with the main telemedicine platform Anticipate an increase in patient satisfaction rates due to the chatbot's 24/7 availability Plan to extend the chatbot service to other languages for better patient inclusivity Future consideration to integrate the chatbot with EHR for personalized patient advice Evaluating the need for further IT investments based on the pilot's outcomes
+
+Slide 6:
+Conclusion The pilot project has shown massive potential to revolutionize our digital healthcare delivery. Moving forward, we will be working on scaling this innovation across all services to ensure seamless and effective care for our patients.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Q4 2024: Virtual Consultation Efficiency Analysis
+
+Slide 2:
+Introduction Today, we'll be reviewing the efficiency of our digital healthcare services, specifically focusing on the patient wait time in Q4 2024. This analysis will provide valuable insight into our operational effectiveness and areas for potential improvement.
+
+Slide 3:
+Overview of Virtual Consultation Process The process begins with the patient's request for a virtual consultation certificate MediConn's team verifies the patient’s details and eligibility A licensed healthcare professional is then assigned to the patient The consultation is scheduled based on the professional’s availability After the consultation, the professional generates a report Finally, the report is sent to the patient along with the certificate
+
+Slide 4:
+Q4 2024 Patient Wait Time Analysis Total number of patients who requested virtual consultation certificates was 15,000 The peak request period was during the first two weeks of December Most requests came from Ontario and Quebec Average age of patients was 42 years Majority of patients sought consultations for respiratory issues The least wait time was reported for psychiatry consultations
+
+Slide 5:
+Benchmarking Against Industry Standards MediConn's patient satisfaction scores consistently exceed industry averages Our platform's uptime of 99.8% outperforms most competitors We hold the industry-leading position in terms of patient data security Our patient callback rate is 20% lower than the industry standard We maintain full compliance with all relevant healthcare and data privacy regulations
+
+Slide 6:
+Conclusion As we've seen, our virtual consultation process is performing well against industry standards, but there's always room for improvement. Let's focus on identifying bottlenecks and streamlining our services to enhance patient experience.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Cybersecurity Training &amp; Awareness Program
+
+Slide 2:
+Introduction As we expand our operations and digital footprint, it's critical to enhance our cybersecurity posture. This presentation aims to outline a comprehensive cybersecurity awareness and training program to mitigate risks associated with high employee turnover and seasonal hiring.
+
+Slide 3:
+Understanding Our Security Landscape Our seasonal workforce displays a significantly lower turnover rate of 19% when provided with cybersecurity training, compared to 41% for untrained staff. Trained seasonal staff resulted in 65% fewer security errors or reported incidents, demonstrating the efficacy of our training programs. The correlation between cybersecurity training and lower turnover suggests an increased sense of job competency and security. A substantial reduction in security incidents among trained staff underscores the importance of extending cybersecurity awareness to all employees, irrespective of contract length. By reducing security errors, we can minimize operational disruptions and maintain the integrity of our customer and operational data. Our training program's success with seasonal staff highlights the need for continuous investment in cybersecurity awareness as part of our broader growth strategy in the U.S. and Canada. Addressing the training needs of temporary hires can help us maintain a robust security posture during peak hiring periods, mitigating potential risk exposure.
+
+Slide 4:
+Mitigating Risks Through Employee Training All new employees at Lee's Market undergo a basic cybersecurity awareness training as part of their onboarding process In 2024, we held quarterly cybersecurity refresher courses for all employees We are investing in advanced cybersecurity training for our IT and Security teams Our training modules cover security best practices, like setting strong passwords and recognizing suspicious emails In 2024, we launched a successful 'Security Champion' program where selected employees received advanced training and were responsible for promoting cybersecurity awareness in their respective departments We use gamified training modules to engage our employees in cybersecurity training.
+
+Slide 5:
+Creating a Culture of Cybersecurity Awareness We hold annual 'Cybersecurity Week' events, aimed at increasing awareness among our employees Cybersecurity posters and reminders are placed strategically in every office and store We have a 'cybersecurity tip of the month' included in our corporate newsletter Employees are encouraged to report any security concerns immediately to the IT &amp; Security department We regularly share news and updates on major cybersecurity incidents in the retail industry to keep our employees informed Our cybersecurity policies are reviewed and updated annually to keep up with the evolving threat landscape.
+
+Slide 6:
+Conclusion By implementing a robust training program and fostering a culture of cybersecurity awareness, we can significantly reduce the potential for security incidents. We'll be working closely with HR and Operations to roll out these initiatives and monitor their effectiveness.

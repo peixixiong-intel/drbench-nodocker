@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Insights into MediConn's Website Performance
+
+Slide 2:
+Introduction As we strive to ensure our digital platform's accessibility and user-friendliness, it's critical to monitor and assess our website's performance. This presentation will provide a comprehensive overview of the recent changes in our website's performance metrics.
+
+Slide 3:
+Overview of Virtual Healthcare Market Trends Virtual healthcare market expected to grow by 30% over the next five years globally North America remains the leading region in virtual healthcare adoption Telehealth services experienced a surge during the COVID-19 pandemic Increased demand for remote patient monitoring systems Rise in the number of smartphone users boosting the mHealth market Regulatory changes in telemedicine are speeding up the market growth Increased investment in AI and machine learning in healthcare
+
+Slide 4:
+Analysis of MediConn's User Engagement Metrics Average session duration of users on the platform has increased by 15% in Q2 60% of users accessed the platform through mobile devices User churn rate has decreased by 10% in the last six months Average number of daily active users has increased by 5% in the last quarter The user retention rate showed a consistent growth of 2% month over month The bounce rate shows a slight increase of 1.5% in the last month The most used feature in the application is the virtual consultation tool
+
+Slide 5:
+Recent Changes in Website Performance Website load time has been reduced by 20% after the last update The number of 404 errors has decreased significantly in the last quarter The website's security score has improved after the implementation of SSL certification The mobile version of the website has improved its performance by 15% in the last month Server downtime incidents have been reduced by 70% in the last six months The website's accessibility score has improved, meeting all WCAG 2.1 AA standards
+
+Slide 6:
+Conclusion Our website performance has shown significant changes, which correlate with the current virtual healthcare market trends. Moving forward, we need to focus on further optimizing the user experience and engagement on our platform.

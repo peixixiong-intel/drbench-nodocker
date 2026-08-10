@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+IT Department Recognition Overview, March 2025
+
+Slide 2:
+Introduction This presentation provides an overview of the internal recognition received by our IT department in March 2025. It also contextualizes these achievements within the broader scope of our company's objectives and industry trends.
+
+Slide 3:
+IT Department: Key Contributions in Q1 2025 The IT department developed a new version of our patient portal, enhancing user experience Launched an AI-backed chatbot to assist patients with common inquiries Implemented a cybersecurity upgrade to protect patient data, meeting the latest HIPAA guidelines Facilitated the integration of third-party healthcare apps into our platform Conducted successful load testing to ensure platform stability under heavy traffic Trained the customer service team on new IT tools to expedite query resolution.
+
+Slide 4:
+Recognizing Excellence: IT Department Awards in March Our IT department was nominated for the ‘Tech Innovation of the Year’ award The department was shortlisted for the 'Best Use of AI in Healthcare' award MediConn’s IT security team was appreciated for their effort in a cybersecurity event The IT department received a commendation for improving the overall platform UX The team's work on app integrations was recognized in the 'Best App Ecosystem' category.
+
+Slide 5:
+Impacts and Implications of IT Achievements Our new patient portal has resulted in a 20% increase in user engagement The introduction of the AI chatbot has reduced customer service response time by 35% The cybersecurity upgrade has resulted in zero data breaches in Q1 The integration of third-party apps has expanded our services and increased patient satisfaction The load testing ensured a smooth user experience during peak usage hours The IT tools training has resulted in a 15% reduction in average call handling time.
+
+Slide 6:
+Conclusion The recognition received by our IT department in March 2025 underscores the critical role they play in our business operations. Moving forward, let's ensure these achievements are leveraged to drive continuous improvement and enhance our virtual healthcare services.

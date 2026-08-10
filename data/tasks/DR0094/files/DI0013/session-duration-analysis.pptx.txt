@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Telehealth Session Duration Analysis FY2025
+
+Slide 2:
+Introduction Welcome everyone, we're going to explore some performance metrics from the last fiscal year. Specifically, we'll focus on the average duration of telehealth sessions across our platforms.
+
+Slide 3:
+Overview of Telehealth Usage in FY2025 MediConn's telehealth users increased by 10% in FY2025 The most significant growth was observed in the geriatric patient demographic The platform was used for over 100,000 consultations in FY2025 The customer retention rate was 75% in FY2025 The platform was accessed from over 20 different countries 30% of sessions were conducted outside traditional working hours
+
+Slide 4:
+Average Duration of Telehealth Sessions Session duration varies widely based on the nature of the consultation Emergency consultations generally have longer durations than routine check-ups Technical issues can impact the duration of a session Duration may be influenced by the patient's comfort with technology Sessions conducted after working hours typically have longer durations Training and user familiarization can help reduce session duration
+
+Slide 5:
+Impact of Session Duration on User Satisfaction User satisfaction may decrease if sessions are too long due to fatigue Short, concise sessions are preferred for routine check-ups User satisfaction can be influenced by the doctor's ability to effectively communicate within the given session duration Satisfaction ratings generally increase when sessions end with clear next steps Dissatisfaction may arise from perceived wasted time in longer sessions
+
+Slide 6:
+Conclusion In conclusion, understanding the average duration of our telehealth sessions can inform our strategies to improve user experience. We should continue to monitor these metrics and aim to enhance our services based on user feedback.

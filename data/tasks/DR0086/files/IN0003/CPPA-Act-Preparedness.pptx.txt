@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+CPPA Act Preparedness for MediConn
+
+Slide 2:
+Introduction With the upcoming CPPA Act, we need to ensure MediConn's smooth transition should the Act come into effect by Q2 2026. This presentation will discuss potential measures and impacts on our system infrastructure.
+
+Slide 3:
+Current System Compliance with Data Privacy As of the end of Q4 2025, MediConn has achieved a significant milestone in the journey towards CPPA compliance with an estimated 60% of our data processing systems and integrations aligned with the new standards. This achievement, while commendable, identifies a remaining 40% that requires targeted upgrades to meet the forthcoming CPPA standards. The areas observed to have the most need for improvement are algorithmic transparency and data portability, which are the key focus areas for the upcoming quarters. Our progress on the compliance journey is a testament to MediConn's proactive approach towards regulatory changes, reflecting our commitment to patient data privacy. By implementing an effective roadmap to address these areas of improvement, we anticipate a smooth transition to complete compliance ahead of the CPPA Act coming into effect in Q2 2026. Our strategic plan includes auditing, upgrading, and testing our systems, ensuring they are not only compliant but also optimized for our operations. Our dedicated in-house team, in conjunction with external consultants, will continue to monitor and guide our progress towards full compliance.
+
+Slide 4:
+Potential System Adjustments for CPPA Act MediConn's systems may require updates to be more user-friendly and transparent There may be a need for increased data encryption and security measures MediConn may need to expand the IT team to manage potential system adjustments The company may need to invest in new software or hardware to comply with the Act MediConn is considering the use of AI for improved data management and security
+
+Slide 5:
+Strategic Plan for Smooth Transition MediConn aims to minimize system downtime during the transition period The company plans to conduct extensive employee training to ensure smooth operations MediConn will be engaging external consultants to help manage the transition The company plans to communicate regularly with patients to ensure they are aware of any changes MediConn intends to leverage its existing IT infrastructure to facilitate the transition process
+
+Slide 6:
+Conclusion By proactively preparing for the CPPA Act, we can ensure a seamless transition with minimal disruption to our services. The next steps will involve detailed planning and system adjustments based on the strategies discussed.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Cybersecurity Practices at Elexion Automotive
+
+Slide 2:
+Introduction This presentation discusses our cybersecurity team's latest activities and initiatives. We'll cover our recent conference attendance, ongoing training efforts, and future plans to enhance our security infrastructure.
+
+Slide 3:
+Recent Cybersecurity Conference Participation Elexion's cybersecurity team consistently participates in multiple conferences annually. In the last two years, we have attended conferences in San Francisco, Chicago, and Dallas. Our team has presented papers on 'Effective Cybersecurity in Electric Vehicles' and 'Mitigating Cyber Risks in Automotive Industry'. The team has received several accolades for their outstanding contributions to the cybersecurity field. The conferences attended have provided our team with networking opportunities to collaborate with industry leaders.
+
+Slide 4:
+Ongoing Cybersecurity Training Initiatives Elexion implements quarterly cybersecurity training for all employees. We have partnered with top cybersecurity firms for specialized training. In 2024, we introduced a new training module on 'Security in Electric Vehicle Infrastructure'. Employee participation rate in cybersecurity training sessions is over 90%. The assessment score for the last training session averaged 85% across the company.
+
+Slide 5:
+Future Plans for Improving Security Infrastructure Elexion plans to invest an additional 15% in cybersecurity infrastructure in the next fiscal year. We are in talks with cybersecurity vendors to upgrade our intrusion detection system. There is a plan to enhance our security operations center with AI-based threat detection. We aim to achieve ISO 27001 certification by the end of next year. In the next quarter, we will be rolling out a company-wide cybersecurity awareness campaign.
+
+Slide 6:
+Conclusion Investing in our cybersecurity team's continuous training and development is essential for Elexion's success. We must maintain our focus on these initiatives and plan for future enhancements to ensure our infrastructure remains robust and secure.

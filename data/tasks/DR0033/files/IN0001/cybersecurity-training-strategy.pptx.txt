@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Cybersecurity: Training and Awareness Strategy
+
+Slide 2:
+Introduction In light of our expanding operations and the associated cybersecurity risks, this presentation outlines our proposed strategy to enhance our cybersecurity awareness and training program. Our goal is to mitigate risks from high staff turnover and seasonal hiring, while minimizing human error induced incidents.
+
+Slide 3:
+Evolving Cybersecurity Landscape: Challenges and Opportunities In the last quarter of 2024, we experienced a significant gap in our security training, with a majority (75%) of our newly hired temporary employees lacking essential cyber-risk mitigation skills. Specifically, these employees did not receive training in social engineering or email phishing prevention, leaving them potentially vulnerable to sophisticated cyber threats. The lack of such training among our temporary workforce aligns with the broader industry trends, as suggested by VikingCloud's report, which showcased a similar deficiency among 78% of temporary retail employees. Moreover, our situation is further complicated by our high employee turnover and seasonal hiring, making it difficult to ensure that all employees are properly trained and up-to-date with the latest cybersecurity practices. The training gap is not only a threat to our digital infrastructure but also a potential obstacle in our growth in the US and Canadian markets. It's vital that we allocate sufficient resources to address these challenges, considering that 52% of retailers have reported struggling to keep up with evolving cyberattack methods due to a lack of internal resources. By the end of 2025, we aim to design and implement a robust cybersecurity awareness and training program to mitigate security risks and reduce incidents caused by human error.
+
+Slide 4:
+The Human Factor: Understanding and Mitigating Risks Employees are often the weakest link in cybersecurity, with 70% of breaches originating from human error Importance of background checks for employees handling sensitive data Implementation of two-factor authentication to reduce unauthorized access risk Regular password changes and complexity requirements reduce the risk of password cracking Security protocols for remote working as part of the business continuity plan Clear delineation of access rights and privileges based on roles and responsibilities
+
+Slide 5:
+Blueprint: Cybersecurity Training and Awareness Program Importance of continuous training and awareness programs to keep up with evolving threats Utilization of gamified training to improve engagement and retention Inclusion of cybersecurity training in the onboarding process of new hires Regular phishing simulations to assess employee readiness Encouraging a culture of security in the organization to promote proactive practices Periodic audits of cybersecurity training effectiveness
+
+Slide 6:
+Conclusion By understanding the evolving cybersecurity landscape and the human factor in security risks, we can design an effective training and awareness program. This will support our growth in both the US and Canadian markets, while ensuring the security of our digital infrastructure.

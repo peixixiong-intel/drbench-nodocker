@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Remote Cybersecurity Threats: 2026 Strategy
+
+Slide 2:
+Introduction As we approach Q1 of 2026, evolving remote cybersecurity threats pose a significant risk to our consumer base. This presentation will outline key strategies Elexion Automotive should adopt to counter these threats effectively.
+
+Slide 3:
+Emerging Cybersecurity Threats in Automotive Industry Cybersecurity concerns have been highlighted by a recent exploit in Kia and Subaru vehicles as per the 2025 Help Net Security Article, emphasizing the need for vigilance. Elexion Automotive has been proactive in this domain with a 96% compliance rating to the ISO/SAE 21434 standard as of August 2025. Our compliance rating is forecasted to rise to 98% by the onset of Q1 2026, further strengthening our cyber defenses. Reinforcing consumer education on data security and preventative measures can bolster our defenses, as recommended by cybersecurity professionals. Emphasizing the importance of regular software updates, secure Wi-Fi connections, and vehicle-integrated security measures to consumers is crucial. The increasing compliance rating reflects our commitment to secure our consumer base from potential remote attacks. Future strategies should include maintaining and improving this high compliance standard, along with regular penetration testing and vulnerability assessments.
+
+Slide 4:
+Implementing Robust Protective Measures Elexion has a comprehensive cybersecurity policy that includes regular system audits and penetration testing Our incident response team operates 24/7 to quickly address any detected threats We routinely encrypt all sensitive data stored in our systems and use two-factor authentication for all users Our IT team conducts regular training sessions for all employees to ensure compliance with cybersecurity practices We partner with leading cybersecurity firms to stay ahead of potential threats Cybersecurity metrics are included in our monthly performance reports to the executive team
+
+Slide 5:
+Adapting to 2026 Cybersecurity Landscape Our cybersecurity team is expanding to include experts in artificial intelligence and machine learning We are investing in advanced threat detection software to enhance our current systems Elexion plans to collaborate with external cybersecurity consulting firms for a comprehensive system audit in Q2 2026 We are exploring the adoption of a zero-trust security model to further protect our systems and data Our IT department is developing a more robust cybersecurity training program for all employees Our goal for 2026 is to reduce the time it takes to detect and respond to cyber threats by 30%
+
+Slide 6:
+Conclusion By staying ahead of emerging threats, implementing robust cybersecurity measures, and adapting to the changing landscape, we can ensure the protection of our consumer base. It's crucial we take immediate steps to reinforce our defenses and prepare for 2026.

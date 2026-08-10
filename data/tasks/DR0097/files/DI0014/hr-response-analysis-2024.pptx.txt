@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+HR Response Efficiency Analysis 2024
+
+Slide 2:
+Introduction This presentation provides an overview of our HR response efficiency for the year 2024. It focuses on the average response time to employee queries, among other key metrics.
+
+Slide 3:
+Overview of 2024 HR Enquiries In 2024, the HR department received a total of 2,500 queries from employees About 40% of these queries were related to employee benefits and compensation Approximately 30% were about company policies and procedures Roughly 20% were requests for clarification on job roles and responsibilities The remaining 10% of queries were miscellaneous, covering a wide range of topics To handle these queries, the HR department used an automated ticketing system All queries were categorized and prioritized based on their nature and urgency
+
+Slide 4:
+Average Response Time for HR Queries In 2024, the HR department implemented a new service level agreement (SLA) for query response times The SLA aimed to improve on the industry average response time of 6 hours The HR team used a ticketing system to track and manage queries The system also helped identify bottlenecks and areas for improvement Training sessions were held for HR staff to improve response times The HR department routinely reviewed their performance against the SLA
+
+Slide 5:
+Impacts of Response Time on Employee Satisfaction Faster response times are generally associated with higher employee satisfaction The HR department conducted regular employee satisfaction surveys In 2024, they observed a positive correlation between response times and satisfaction scores However, satisfaction was also influenced by the quality and clarity of responses The HR department used these insights to refine their communication strategies Continued efforts are being made to balance speed and quality in HR responses
+
+Slide 6:
+Conclusion In 2024, our HR department demonstrated commendable efficiency in response times. Going forward, we will focus on maintaining these standards and identify areas for further improvement.

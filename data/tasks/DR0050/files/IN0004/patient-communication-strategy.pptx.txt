@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Patient Communication: A Strategic Approach
+
+Slide 2:
+Introduction As we strive to deliver the best virtual healthcare services, effective patient communication has become a crucial aspect of our operations. Today's presentation will explore strategies MediConn Solutions can implement to improve patient communication, which will inherently reduce service calls.
+
+Slide 3:
+Current Patient Communication Landscape As part of our virtual healthcare service, electronic prescriptions are conveyed to partner pharmacies within a 2-hour window. Following the prescription process, patients are required to organize delivery or pickup independently, which could contribute to the influx of service calls. Delivery of prescriptions through MediConn's channels typically requires a 24-48 hour period and incurs an additional $15 fee. Our present prescription management process is not expected to undergo any significant modifications going into 2025. While AI is being highlighted as a promising tool for patient communication, only 13% of healthcare group leaders plan to prioritize it in the upcoming year. A quarter of medical group leaders plan to improve patient communication technology into 2025, hinting at potential industry shifts. The possibility of integrating follow-up reminders and patient education could help in reducing the load on our call centers into Q1 2025.
+
+Slide 4:
+Innovative Approaches to Patient Communication Many companies in the healthcare industry are looking towards AI and chatbots to handle patient communication. Some organizations have started using patient portals to provide patients with access to their healthcare information. Social media platforms are being used to communicate health tips and general information. There is a rising trend towards the use of virtual assistants to answer patient queries. Several companies have started to use mobile apps to send appointment reminders and medication prompts.
+
+Slide 5:
+Anticipated Impact on Service Calls An increase in digital communication channels may lead to a decrease in traditional service calls. Higher patient satisfaction could result in fewer complaint calls. More efficient communication methods may reduce the burden on our customer service department. Implementing new technologies could lead to temporary increases in service calls during the transition period. A shift towards self-service options could impact the volume and nature of service calls.
+
+Slide 6:
+Conclusion By leveraging innovative communication strategies, we can significantly enhance our patient interactions and consequently reduce our service call volume. Let's move forward with adopting these approaches and monitor the impact on our service call rates over Q12025.

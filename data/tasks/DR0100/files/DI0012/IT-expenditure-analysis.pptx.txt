@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+IT Expenditure Analysis: Hardware Upgrades
+
+Slide 2:
+Introduction This presentation will provide an in-depth analysis of MediConn's Information Technology expenditure in 2025, with a specific focus on desktop hardware upgrades. This information is crucial in understanding and strategizing the allocation of our annual IT budget.
+
+Slide 3:
+Overview of 2025 IT Expenditures Total IT expenditure for 2025 was $7.5 million Network security and data protection accounted for 35% of the total budget Cloud services and storage solutions accounted for 25% of the budget IT staff salaries and benefits made up 20% of the total expenditure Software licensing and updates accounted for 15% of the expenditure The remaining 5% was allocated to miscellaneous IT costs
+
+Slide 4:
+Detailed Analysis of Hardware Upgrade Costs The cost of server hardware upgrades in 2025 was $500,000 The company invested $300,000 in new routers and switches MediConn spent $200,000 on upgrading data center infrastructure There was a $100,000 investment in wireless network hardware The company also allocated $50,000 for peripheral device upgrades
+
+Slide 5:
+Comparison of IT Spending with Industry Trends Industry average IT spending increased by 15% in 2025 MediConn's IT spending increased by 20% compared to 2024 The company's spending on data security was 10% higher than the industry average The investment in cloud services was in line with industry trends The spending on hardware upgrades was below the industry average
+
+Slide 6:
+Conclusion Understanding our IT expenditure, specifically on hardware upgrades, allows us to make informed decisions about future investments and budgeting. Moving forward, we will continue monitoring industry trends to ensure our IT infrastructure is both cost-effective and competitive.

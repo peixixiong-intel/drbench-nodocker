@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Mitigating Cyber Risks: Ransomware Readiness
+
+Slide 2:
+Introduction As MediConn continues to evolve, our reliance on third-party services increases, exposing us to potential cybersecurity threats like ransomware. This presentation will discuss our strategies for minimizing such risks and ensuring clinical continuity.
+
+Slide 3:
+Current Cybersecurity Infrastructure: Strengths and Weaknesses In the first quarter of 2025, we enabled a robust detection system with 25 alerts specifically targeting potential threats from our third-party integrations. This proactive approach was designed to monitor any abnormal patterns or behaviors in our integrated systems. These alerts, spread across all critical integrations, served as an early warning system for potential cybersecurity threats. The adoption of this system was a significant step in strengthening our defenses against ransomware attacks and other threats. Despite these measures, the increasing complexity of cyber threats, particularly those targeting healthcare associates, necessitates continuous evolution of our security protocols. As part of our ongoing efforts, we must ensure that our security measures are comprehensive enough to prevent the risk of an extended service loss from any of our third-party providers. Our aim is to minimize the blast radius of any potential attacks, ensuring clinical continuity even under adverse circumstances.
+
+Slide 4:
+Minimizing Blast Radius: Architectural and Procedural Controls Segmentation is a critical strategy used to contain threats within a certain boundary We use multi-factor authentication for all our systems to ensure identity verification Regular patch management is part of our procedures to keep systems updated We implement least privilege access to limit potential breaches AI-based threat hunting tools are used for proactive threat identification We have a disaster recovery plan in place, which is regularly tested and updated Our data backup strategy includes off-site storage for critical data
+
+Slide 5:
+Business Continuity Planning: Handling Extended Service Loss Our business continuity plan (BCP) is based on the ISO 22301 standard The BCP includes regular drills to ensure preparedness in case of a service loss The BCP aims to minimize downtime and ensure rapid recovery of services It includes a communication plan to keep stakeholders informed during a crisis Data backups are part of the BCP to prevent data loss during service interruptions The BCP is audited annually to ensure it meets the changing business needs We have a dedicated business continuity team that manages the BCP
+
+Slide 6:
+Conclusion Our goal is to ensure MediConn’s operations remain resilient in the face of potential ransomware attacks. By fortifying our cybersecurity infrastructure, adopting effective controls, and improving our business continuity planning, we can protect our services, maintain clinical continuity, and uphold our commitment to accessible, secure healthcare.

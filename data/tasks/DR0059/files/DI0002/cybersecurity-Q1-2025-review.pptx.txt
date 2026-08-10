@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Cybersecurity Measures: Q1 2025 Review
+
+Slide 2:
+Introduction This presentation will provide an overview of our cybersecurity efforts in Q1 2025, focusing on penetration testing conducted on our virtual healthcare platform. It's crucial to understand these activities to ensure the safety of our digital services.
+
+Slide 3:
+Overview of Q1 2025 Cybersecurity Activities Revised and updated MediConn's cybersecurity policies and guidelines Implemented a new two-factor authentication process for all employees Launched a cybersecurity awareness program, resulting in a 20% increase in employee training Activated a secure encrypted storage system for patient data Introduced a new security incident response protocol Conducted a company-wide cybersecurity risk assessment
+
+Slide 4:
+Penetration Testing Results and Findings Discovered a minor vulnerability in the patient login process, which was promptly patched Found that the data encryption process was robust and secure Identified a need for improved server security protocols No significant breaches or intrusions were detected in the testing process Ensured the compliance of the system with the latest healthcare data security standards Penetration testing showed that the system could manage high traffic volumes without compromising security
+
+Slide 5:
+Improvement Measures and Next Steps Plan to conduct regular cybersecurity training for all employees in Q2 2025 Aim to implement a more robust incident response protocol in Q3 2025 Intend to upgrade our encryption algorithms by the end of 2025 Preparing for an external cybersecurity audit in Q4 2025 Plan to collaborate with a third-party cybersecurity firm for advanced threat detection in the future Intend to conduct a comprehensive IT infrastructure review in the next fiscal year
+
+Slide 6:
+Conclusion Our rigorous penetration testing ensures the security and reliability of our virtual healthcare platform. Moving forward, we will implement identified improvements and continue to prioritize our cybersecurity efforts.

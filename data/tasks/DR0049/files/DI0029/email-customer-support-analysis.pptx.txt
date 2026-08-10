@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Email Engagement and Customer Support Analysis
+
+Slide 2:
+Introduction As part of our efforts to improve customer experience, we've analysed our email query responses. This presentation will explore the proportion of email queries leading to customer service contact versus those resulting in abandonment.
+
+Slide 3:
+Email Query Volume: Monthly Overview In Q4 2024, our average monthly email query volume was approximately 6,700 December saw the highest volume with over 7,500 queries The lowest volume was in October with about 6,000 queries MediConn's main website was the primary source of email queries Mobile app queries accounted for 30% of total volume Peak query times align with standard business hours, 9 am - 5 pm ET We observed a 15% increase in email query volume compared to Q3 2024
+
+Slide 4:
+Customer Service Engagement: Post-Email Query The average response time to email queries was 45 minutes Customer satisfaction scores averaged 4.2 out of 5 post-email engagement 70% of queries were resolved within the first interaction The most common post-query engagement channels were phone calls and live chat Our customer service team operates on a 24/7 schedule to ensure prompt responses The majority of queries were related to technical issues and account management Our customer service representatives undergo regular training to handle diverse queries
+
+Slide 5:
+Understanding Customer Query Abandonment Rates Abandoned queries are typically due to complex procedures or lack of immediate responses We are implementing AI chatbots to assist with immediate query responses Our team is working on simplifying procedures to reduce abandonment rates Regular customer feedback is collected to understand reasons for abandonment High query abandonment rates occur during peak business hours We are considering expanding our customer service team to handle peak hour volumes
+
+Slide 6:
+Conclusion Our analysis shows a significant portion of email queries leading to customer service contact. There is a need to streamline our email response system to reduce query abandonment and improve customer service.

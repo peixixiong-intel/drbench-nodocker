@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Maintenance Efficiency Review: Plant Operations
+
+Slide 2:
+Introduction In our continuous endeavor to enhance our operational efficiency, we will be reviewing the volume of plant maintenance work orders that have been closed. This will provide insights into our maintenance schedules and plant downtime management.
+
+Slide 3:
+Overview of Maintenance Work Orders Maintenance work orders are primarily generated through our computerized maintenance management system (CMMS) In 2020, Elexion Automotive implemented a predictive maintenance model for increased efficiency Maintenance work orders are categorized into preventive, corrective, and breakdown types The preventive maintenance work orders contribute significantly to minimizing breakdowns Our maintenance team consists of 150 staff spanning across all our production facilities CMMS has helped to streamline the process and increased the rate of work order closures
+
+Slide 4:
+Completed Plant Maintenance Work Orders Work orders are considered completed when all the assigned tasks have been finished and verified Maintenance work order completion has a direct impact on the overall plant productivity In 2021, the average time to complete a work order was reduced by 15% compared to 2020 The completion rate of preventive maintenance work orders has significantly improved plant efficiency CMMS provides real-time tracking of the work order status, aiding in quicker completion We have noticed a decrease in breakdown maintenance work orders due to our predictive maintenance approach
+
+Slide 5:
+Impact on Production Efficiency Effective completion of maintenance work orders has resulted in a 20% increase in production efficiency Our predictive maintenance model has reduced the occurrence of unplanned downtime by 30% in the last year An efficient maintenance work order system is crucial for achieving optimal utilization of resources The production team and maintenance team collaborate closely to ensure minimal disruption The preventive maintenance strategy has significantly reduced the frequency of equipment breakdowns With improved maintenance practices, the overall equipment efficiency (OEE) has seen an upward trend
+
+Slide 6:
+Conclusion The number of closed maintenance work orders indicates our ability to manage plant downtime effectively. Moving forward, we need to streamline our maintenance planning to further minimize plant downtime and enhance production efficiency.

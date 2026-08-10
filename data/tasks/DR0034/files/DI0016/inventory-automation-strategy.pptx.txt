@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Improving Inventory Control: Jason Wong's Contribution
+
+Slide 2:
+Introduction Today, we'll evaluate the key strategies implemented by Jason Wong in automating our annual inventory count in 2025. His efforts have significantly impacted our inventory management and overall operational efficiency.
+
+Slide 3:
+Revamping Inventory Management: Pre-2025 Approach Prior to 2025, Lee's Market relied on manual stocktaking every quarter The process was labor-intensive, involving store employees physically counting items The cost of manual inventory management was estimated at 1% of total revenue Pre-2025, the error rate for inventory count was around 2.5% The manual process was time-consuming and often resulted in operational downtime The old system did not allow real-time inventory tracking, affecting reordering efficiency
+
+Slide 4:
+Jason Wong's Automation Strategy: Implementation and Impact Wong's strategy was designed to reduce human error and operational costs The new system was rolled out in Q2 of 2024, with full implementation by Q4 It required significant cross-functional collaboration between IT, Operations, and Store Management The strategy was projected to reduce inventory errors by 50% annually Training was provided to all store employees to ensure smooth transition The system was designed to integrate with the existing POS system
+
+Slide 5:
+Future Directions: Enhancing Inventory Control Lee's Market plans to further invest in AI technology to predict inventory needs The company is exploring partnerships with tech firms to optimize the system There is potential to use data analytics to improve forecasting accuracy Future enhancements may include real-time inventory tracking via mobile apps The company is considering using blockchain technology for enhanced traceability Future initiatives will continue to focus on reducing operational costs and improving efficiency
+
+Slide 6:
+Conclusion Jason Wong's automation strategy has been instrumental in improving our inventory management process. We'll continue to build upon this foundation to further enhance operational efficiency.

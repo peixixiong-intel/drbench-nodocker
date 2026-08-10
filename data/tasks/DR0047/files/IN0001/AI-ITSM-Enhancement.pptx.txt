@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+AI-Integrated ITSM for Enhanced Healthcare Support
+
+Slide 2:
+Introduction This presentation explores the potential of integrating AI into our IT Service Management to improve remote care and mobile health app support. We'll discuss the benefits, challenges, and a roadmap for implementation.
+
+Slide 3:
+Current ITSM Functionality and Limitations In 2025, our IT team was successful in resolving 57% of incidents related to remote care within a two-hour framework. Despite this success, there remains a 43% gap where resolution times exceeded the two-hour mark, indicating room for improvement in our ITSM processes. Our current ITSM approach has been beneficial in supporting our healthcare delivery, yet it can be further optimized to handle high-priority incidents more efficiently. Utilizing AI-integrated ITSM could potentially reduce the number of unresolved incidents, leading to faster resolution times and improved service delivery. Implementing Knowledge Centered Services (KCS) as part of our ITSM could reduce incoming tickets, allowing our team to focus more on complex problem solving. Leveraging automated evidence collection and audit preparation, as suggested by TOPdesk, could streamline our compliance with healthcare regulations, saving significant time and resources. Enhancing ITSM functionality is crucial to maintain our commitment to delivering seamless experiences to our end-users, both patients and healthcare professionals.
+
+Slide 4:
+Potential of AI Integration in ITSM AI has the potential to automate routine queries, freeing up IT personnel for complex issues AI can predict and prevent potential IT disruptions using predictive analytics AI can enhance multi-channel engagement by providing instant responses across various platforms AI can streamline the ITSM process by integrating with other business software An AI-powered ITSM platform can potentially improve first-time resolution rates and reduce ticket volume AI has the potential to personalize IT services based on user behavior and preferences
+
+Slide 5:
+Roadmap for AI-Integrated ITSM Implementation Phase 1: Conduct a thorough audit of the current ITSM platform (Q2 2025) Phase 2: Identify potential AI solutions and evaluate their compatibility with our current systems (Q3 2025) Phase 3: Pilot AI solutions in a controlled environment (Q4 2025) Phase 4: Analyze pilot results and make necessary adjustments (Q1 2026) Phase 5: Roll out AI-integrated ITSM platform company-wide (Q2 2026) Phase 6: Regularly monitor and update AI solutions for continuous improvement (Q3 2026 onwards)
+
+Slide 6:
+Conclusion With careful planning and execution, AI-integrated ITSM has the potential to significantly enhance our support mechanisms for remote care and mobile health apps. Moving forward, we'll need to focus on the development of a comprehensive implementation plan that accounts for regulatory compliance and customer experience.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+IT Infrastructure Report 2024: Lee's Market
+
+Slide 2:
+Introduction This presentation provides insights into the IT &amp; Security operations at Lee's Market in 2024, focusing on hardware management. It particularly highlights the update and replacement of employee computers.
+
+Slide 3:
+Overview of IT Assets Management Lee's Market's IT Assets Management policy was updated in 2023 to align with the new industry standards The IT department utilizes IT Asset Management (ITAM) software to track and manage assets across all locations Regular audits are conducted to ensure all assets are accounted for and are in good working condition IT Asset Management plays a crucial role in ensuring business continuity and mitigating risks In 2024, the IT department rolled out a new system for better tracking of software licenses The IT department has implemented a robust disposal process for obsolete or end-of-life IT assets
+
+Slide 4:
+Employee Computer Replacement Statistics The IT department has a protocol to replace computers every 3-5 years depending on the usage and technical specifications The 2023 computer replacement program saw a 15% increase from the previous year The IT department has a set budget for computer replacements which is reviewed annually The cost of computer replacements has decreased by 10% from 2020 to 2024 due to better procurement strategies The number of computers replaced in 2024 was slightly higher than the average of the last five years
+
+Slide 5:
+Impact on Operational Efficiency Regular computer replacements ensure that employees have the tools they need to perform their jobs efficiently The IT department tracks downtime related to computer issues and has seen a decrease in the past two years The implementation of new technology has contributed to a 10% increase in operational efficiency in 2024 The IT department's rapid response to hardware issues minimizes disruptions in store operations Employee satisfaction with IT support increased by 8% in 2024, according to the annual employee survey
+
+Slide 6:
+Conclusion The proactive approach to computer replacements has had a significant positive impact on operational efficiency. Moving forward, we recommend continued investment in IT infrastructure to maintain this momentum.

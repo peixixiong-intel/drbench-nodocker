@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Optimizing Cybersecurity in Digital Healthcare FY2026
+
+Slide 2:
+Introduction As we move towards a more digitally connected healthcare industry, the importance of robust cybersecurity and data protection cannot be overstated. This presentation outlines our strategic approach for enhancing security measures in FY2026.
+
+Slide 3:
+Assessing Current Cybersecurity Landscape In FY2025, 22% of our total IT expenditure, approximating to $4.5M CAD, was assigned to fortifying our cybersecurity ecosystem This strategic investment signifies our commitment towards data protection amid the digital transformation wave in healthcare Our financial commitment in cybersecurity aligns us with industry standards and best practices in data security As we transition into FY2026, it's crucial to assess the efficacy of this allocation and identify areas demanding further investment The current IT budgeting strategy will be revisited in FY2026 to ensure we continue to optimize cybersecurity and data protection We must also consider external factors such as the evolving threat landscape and industry standards in our budget allocation Our investment in cybersecurity is also a significant part of our commitment to ensuring operational efficiency and secure digital engagement
+
+Slide 4:
+Cybersecurity Enhancement Strategies for FY2026 The importance of continuous employee training to avoid phishing attacks The potential of AI and machine learning to predict and mitigate cyber threats The role of multi-factor authentication in enhancing cybersecurity The need for regular security audits to identify potential vulnerabilities The benefits of cloud-based security solutions The importance of having a robust incident response plan in place
+
+Slide 5:
+Balancing Digital Engagement and Data Protection The role of encryption in protecting patient data The impact of data breaches on patient trust and brand reputation The importance of secure data sharing for collaborative healthcare The potential of blockchain technology in healthcare data protection The challenges of maintaining data privacy while promoting digital engagement The role of consent management in patient data protection
+
+Slide 6:
+Conclusion By assessing our current cybersecurity protocols and implementing strategic enhancements, we can ensure optimal data protection while promoting digital engagement. Let's move forward with these strategies to bolster our security infrastructure and maintain our industry leadership

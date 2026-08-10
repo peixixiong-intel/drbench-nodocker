@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+IT Service Requests Analysis - May 2025
+
+Slide 2:
+Introduction This presentation provides a comprehensive analysis of the IT service requests addressed by our team in May 2025. The purpose is to review our performance and identify areas for improvement.
+
+Slide 3:
+Breakdown of IT Service Request Types Software-related service requests made up 42% of the total in 2025 Hardware issues accounted for 35% of service requests Network connectivity problems constituted 15% of service requests The remaining 8% of service requests were miscellaneous, including data retrieval and security concerns Software issues were primarily related to application updates and bug fixes Hardware problems were mostly related to workstation and peripheral malfunctions Network connectivity issues were typically related to Wi-Fi and VPN access
+
+Slide 4:
+Resolution Time for IT Service Requests in May 2025 The average resolution time for software-related issues was 1.2 hours Hardware-related problems had an average resolution time of 2.5 hours Network connectivity problems were typically resolved in 0.8 hours Miscellaneous service requests had an average resolution time of 1.5 hours The longest resolution time in May was 8 hours for a complex hardware issue The quickest resolution was a network issue fixed in 15 minutes The IT &amp; Security team aims to keep the average resolution time below 2 hours for all request types
+
+Slide 5:
+Total IT Service Requests Handled in May 2025 The IT &amp; Security team has seen a consistent increase in service requests year-over-year The busiest day of the week for service requests is Monday The least busy day for service requests is Friday The majority of service requests are submitted between 10 AM and 2 PM The fewest service requests are submitted between 6 PM and 6 AM The team is considering staff reallocation to better handle peak times Software-related service requests have shown the most significant increase over the years
+
+Slide 6:
+Conclusion Analysis of the IT service requests in May shows our team's efficiency in handling and resolving issues. Going forward, we will focus on areas identified for improvement to enhance our IT service delivery.

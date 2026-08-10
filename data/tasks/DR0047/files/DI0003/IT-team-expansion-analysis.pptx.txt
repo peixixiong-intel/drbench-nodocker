@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+IT Service Desk Team Expansion Analysis
+
+Slide 2:
+Introduction In this presentation, we will explore the recent expansion of our IT service desk team and its implications on our company's operations. This will aid in understanding our resources better, and help in future planning.
+
+Slide 3:
+Overview of IT Team Structure The IT team at MediConn Solutions is divided into four primary divisions: Service Desk, Network Management, Software Development, and Cybersecurity Our IT Service Desk team is the first point of contact for all technology-related inquiries and incidents In the past year, we have seen a 15% increase in service desk ticket volume The Network Management team is responsible for maintaining the company's technology infrastructure, ensuring 99.99% uptime Our Software Development team focuses on building and enhancing our proprietary healthcare platforms The Cybersecurity team ensures the safety of our digital assets and patient information, complying with all applicable regulations Regular interdepartmental meetings are held to ensure optimum collaboration and information flow
+
+Slide 4:
+New Additions to IT Service Desk in January 2025 The new team members have diverse backgrounds, including software development, network management, and cybersecurity They were hired as part of our efforts to expand our IT capabilities in response to increasing ticket volumes Each new hire underwent a comprehensive induction program to familiarize them with our systems and processes Regular performance reviews are scheduled for the new hires to measure their impact and help them improve The IT Service Desk team now totals 35 members, up from 30 in December 2024
+
+Slide 5:
+Impact of New Hires on Service Efficiency Since the new hires joined, we've seen a 10% reduction in average ticket resolution time Customer satisfaction scores have increased by 8% in the first quarter of 2025 The new hires have enabled us to extend our service desk operating hours to 24/7 We have been able to implement a new chatbot feature to handle simple inquiries, freeing up our team for more complex cases The new hires have brought fresh perspectives to the team, stimulating innovation and process improvements
+
+Slide 6:
+Conclusion The recent expansion of our IT service desk has broadened our capabilities and increased efficiency. Moving forward, we will ensure proper resource allocation and plan for future expansions based on these insights.

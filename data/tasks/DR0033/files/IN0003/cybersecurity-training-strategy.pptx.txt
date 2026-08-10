@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Cybersecurity Training and Awareness Strategy
+
+Slide 2:
+Introduction As Lee's Market expands its footprint, the importance of rigorous cybersecurity measures has never been greater. This presentation outlines our strategy for enhancing employee cybersecurity awareness and reducing risks associated with high turnover and seasonal hiring.
+
+Slide 3:
+Current Security Landscape: Risks and Challenges In Q1 2025, we introduced new training modules focusing on phishing awareness, password security, and Point of Sale (POS) system safety for our fresh recruits. By the end of Q2 2025, we observed a promising completion rate of 87% for these onboarding modules, indicating an increased understanding of security protocols among new hires. Despite these efforts, a significant portion of temporary retail staff remains underprepared against social engineering, as noted in the VikingCloud April 2025 report. The same report highlighted the lack of safe internet and social media usage training received by 56% of these employees, heightening the risk of security breaches. The absence of mock email phishing training for 56% of temporary hires in Q4 2024 is another area of concern that needs addressing. It's critical to note that 52% of retailers report a lack of IT resources to combat evolving cyber threats, per VikingCloud's findings. Based on these insights, we need to reassess our current approach and create robust, comprehensive training programs to mitigate security risks, specifically targeting seasonal hires and high turnover staff.
+
+Slide 4:
+Cybersecurity Training: Best Practices and Approaches Incorporating real-world scenarios into security training to enhance understanding Regularly updating training content to reflect evolving cyber threats Using interactive modules to increase employee engagement in cybersecurity training Implementing gamification elements in cybersecurity training to increase participation Providing employees with continuous performance feedback during training Ensuring that cybersecurity training is a mandatory part of the onboarding process for all new hires
+
+Slide 5:
+Implementing a Sustainable Cybersecurity Awareness Program Establishing a dedicated Security Education, Training, and Awareness (SETA) team Implementing a robust system to track employee progress and participation in cybersecurity training Regularly updating the cybersecurity awareness program to reflect the latest threat landscape Engaging senior management in cybersecurity awareness activities to demonstrate organizational commitment Incorporating cybersecurity awareness into the company culture, not just as a standalone program Developing a communication strategy to keep all employees informed about cybersecurity updates
+
+Slide 6:
+Conclusion By investing in a robust cybersecurity training and awareness program, we can significantly mitigate security risks and support our growth in the North American market. The next steps involve refining the program details, securing the necessary resources, and initiating the rollout across all departments.

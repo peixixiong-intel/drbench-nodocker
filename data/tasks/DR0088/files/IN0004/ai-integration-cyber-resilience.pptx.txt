@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+AI Integration for Enhanced Cyber Resilience
+
+Slide 2:
+Introduction As we aim to fortify our cyber resilience in line with the 2025 CSCP, let's explore the integration of a new AI anomaly detection tool into our existing infrastructure. This presentation will outline the key considerations to ensure seamless integration and continuous healthcare service delivery.
+
+Slide 3:
+Evolving Cyber Threat Landscape and Anomaly Detection An issue previously encountered during AI integration was an increase in false positives, leading to the unnecessary isolation of crucial medical systems. This necessitates the development of a robust filtering system to distinguish genuine threats from benign anomalies. Over time, model bias or drift was identified, leading to unnoticed real threats - a potential risk that needs to be addressed during the AI integration phase. The failure to integrate data with legacy hospital systems was another significant challenge in monitoring coverage. To prevent this, ensuring seamless data integration between the new AI system and existing infrastructure will be essential. Given the importance of uninterrupted healthcare service, it is critical to address these issues proactively to prevent operational disruptions. It is important to revisit and refine our approach periodically to adapt to the evolving cyber threat landscape.
+
+Slide 4:
+AI Integration: Challenges and Solutions Identification of barriers to AI integration in the healthcare sector Examination of success stories of AI integration in other industries Analysis of the financial implications of AI integration Overview of regulations and compliance requirements for AI in healthcare Exploration of potential solutions to overcome AI integration challenges Discussion on the future of AI in healthcare
+
+Slide 5:
+Plan for Uninterrupted Healthcare Service Delivery Highlight of the importance of continuity in healthcare service delivery Review of the impact of service disruptions on patient satisfaction Description of strategies employed by other healthcare providers to ensure uninterrupted service Presentation of key metrics for measuring service continuity Analysis of the role of technology in maintaining service continuity Discussion on the potential of AI in improving service continuity
+
+Slide 6:
+Conclusion In conclusion, the integration of AI for anomaly detection is a strategic step towards enhancing our cyber resilience. Our next steps will involve detailed risk assessment, careful planning, and rigorous testing to ensure a smooth transition and minimal disruption to our healthcare services.

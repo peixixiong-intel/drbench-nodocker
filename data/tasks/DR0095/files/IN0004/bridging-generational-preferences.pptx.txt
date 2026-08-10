@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Revamping Loyalty Program: Bridging Generational Preferences
+
+Slide 2:
+Introduction This presentation aims to discuss considerations for Lee's Market in redesigning its loyalty program to cater to both digital and traditional service expectations. Our objective is to create a seamless customer experience across all generations.
+
+Slide 3:
+Understanding Gen Z and Millennial Digital Preferences Gen Z and Millennial customers at Lee's Market have demonstrated an increased engagement in our loyalty program, with a redemption rate of 38% from Q1 2024 to Q4 2025. This higher redemption rate among our younger demographic signifies their comfort and familiarity with digital platforms. In comparison, the Gen X and Boomer customer segments have presented a lower redemption rate of 29% during the same period, hinting towards their preference for traditional service methods. The data suggests that a mobile-first approach to our loyalty program redesign could potentially boost engagement and redemption rates across all customer segments. The redesign should prioritize digital accessibility and tracking, given the demonstrated digital preference of our younger customers. However, it is crucial to maintain elements of traditional service to cater to the preferences of our Gen X and Boomer customers and ensure they are not alienated in the process.
+
+Slide 4:
+Insight into Gen X and Boomer Traditional Service Expectations Gen X and Boomers value face-to-face customer service They are more likely to shop in-store rather than online These demographics appreciate loyalty programs that offer tangible rewards Gen X and Boomers are less likely to adopt new technology as quickly as younger demographics They prefer clear and straightforward communication from retailers Gen X and Boomers value reliability and consistency in their shopping experiences
+
+Slide 5:
+Balancing Digital Innovation with Traditional Service in Loyalty Program Retailers must carefully balance digital innovation with traditional service in their loyalty programs It's crucial to provide a seamless shopping experience across all channels Loyalty programs should be easy to understand and use for all demographics Retailers must consider the different shopping habits and preferences of different age groups They should regularly review and update their loyalty programs to ensure they remain relevant Retailers should consider using data analytics to better understand their customers' needs and preferences
+
+Slide 6:
+Conclusion By understanding the distinct preferences of each generation, we can create a loyalty program that bridges the gap between digital and traditional service expectations. Moving forward, we must continue to monitor customer feedback to ensure we are meeting the needs of our diverse customer base.

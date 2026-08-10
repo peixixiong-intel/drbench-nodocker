@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+CRM Software Investment Analysis
+
+Slide 2:
+Introduction Today, we will be discussing our investment in CRM software, focusing on the current costs and its alignment with our strategic goals. This analysis will provide a benchmark to evaluate the return on this significant expenditure.
+
+Slide 3:
+CRM Software: Market Overview The CRM software market is expected to grow at a CAGR of 14.2% from 2021 to 2026 Top CRM software providers in the market include Salesforce, Microsoft Dynamics, and Zoho CRM software helps streamline customer data management and improve customer relationships Adoption of AI in CRM is a growing trend providing predictive analysis for businesses CRM software is being increasingly used in healthcare for patient management Mobile CRM and social CRM are emerging trends in the CRM software market Healthcare industry is one of the major end-users of CRM software
+
+Slide 4:
+CRM Software Expenditure: MediConn Solutions MediConn Solutions started using CRM software in 2020 to improve patient management The IT department manages the implementation and maintenance of the CRM system The CRM system has helped improve patient satisfaction by 20% since implementation The CRM software is integrated with other systems like EHR for seamless operations Annual maintenance of the CRM software is considered as a part of the IT budget Training of staff on using the CRM software is conducted regularly The CRM system has increased efficiency in patient management by 30%
+
+Slide 5:
+Strategic Alignment of CRM Investment CRM investment is aligned with MediConn's strategic goals of improving patient management CRM software aids in achieving the goal of providing accessible and cost-effective care It supports the company's digital transformation goals Investment in CRM software is part of the broader IT spending The return on investment from CRM software is measured in terms of improved patient satisfaction and operational efficiency Future investments in CRM will focus on integrating AI and machine learning capabilities CRM investment is reviewed annually by the finance and IT departments
+
+Slide 6:
+Conclusion In conclusion, while our CRM software costs are significant, they align well with our strategic objectives. Moving forward, we should continue to monitor these costs and their impact on our operations.

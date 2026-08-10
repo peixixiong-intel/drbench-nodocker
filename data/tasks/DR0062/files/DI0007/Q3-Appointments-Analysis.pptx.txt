@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Q3 2024 Service Center Appointments Analysis
+
+Slide 2:
+Introduction This presentation provides an in-depth analysis of service center appointments made via Elexion Automotive's mobile app in Q3 2024. It aims to provide insights on customer behaviors and preferences.
+
+Slide 3:
+User Engagement with Elexion's Mobile App The mobile app has seen a 15% increase in active users from Q2 to Q3 2024 The average session length on the app was 7 minutes in Q3 2024 The app retention rate was 68% in Q3 2024 A total of 5,000 feedback submissions were received via the app in Q3 2024 The app's UI/UX redesign was completed in July 2024 The app crash rate decreased by 3% from Q2 to Q3 2024 The app's most used feature in Q3 was its energy efficiency calculator
+
+Slide 4:
+Service Center Appointments via Mobile App in Q3 2024 The app was updated in Q3 2024 to allow users to book service center appointments The app's appointment booking feature has a user rating of 4.7 The cancellation rate for appointments made via the app was 12% in Q3 2024 A tutorial video on how to book appointments via the app was released in August 2024 The app's appointment booking feature was used the most on Tuesdays in Q3 2024 The average user booked their appointment 10 days in advance in Q3 2024
+
+Slide 5:
+Impact of Mobile App on Overall Service Appointments The introduction of the mobile app booking feature resulted in a 20% decrease in phone bookings The no-show rate for appointments booked via the app was 5% lower than phone bookings The mobile app has helped streamline the appointment process at service centers The app's impact on the overall customer experience at service centers is currently being evaluated The app allows service centers to manage appointments more efficiently The app's appointment booking feature has received positive feedback from service center staff
+
+Slide 6:
+Conclusion Customer reliance on our mobile app to make service center appointments has significantly increased in Q3 2024. We should further optimize our mobile app to enhance user experience and increase service center appointments.

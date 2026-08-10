@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Optimizing Patient Appointment Experience
+
+Slide 2:
+Introduction As we strive to improve our virtual healthcare services, understanding the barriers to patient appointment booking is crucial. This presentation will analyze potential issues and suggest improvements.
+
+Slide 3:
+Understanding Patient Booking Barriers In Q4 2024, a significant 42% of customer service calls were due to patients having difficulty identifying the appropriate appointment type. Another 28% of calls were made by patients experiencing issues with the system not recognizing their health card or coverage information. General confusion navigating the platform accounted for the remaining 30% of the booking-related calls. These findings highlight the need for redesigning our online booking tool to reduce the complexity of appointment type selection. Consideration should also be given to improving the system's ability to validate health cards and coverage details to reduce call volume. Simplifying the overall navigation of the platform could also potentially alleviate the volume of calls related to general confusion. Addressing these issues could lead to an improved patient experience, potentially enhancing customer satisfaction and retention rates.
+
+Slide 4:
+Evaluating the Online Booking Tool Our current online booking tool was developed in-house and launched in Q2 2022 Since its launch, the tool has processed over 200,000 bookings The tool supports cross-platform use, including mobile and desktop Approximately 15% of bookings are cancelled due to technical glitches We have a dedicated technical team responsible for maintaining and updating the tool Our competitors' tools offer features like instant confirmation and rescheduling, which are currently not available in our tool The tool's user interface is due for a design overhaul in Q3 2024
+
+Slide 5:
+Assessing Customer Support Processes Our customer support operates 24/7, handling an average of 500 calls daily The department has a staff turnover rate of 15% annually Approximately 35% of calls received are related to booking issues Our team uses the CRM system to track and resolve customer complaints We have implemented a training program for new hires to familiarize them with our systems and processes Our average call handling time is around 10 minutes We have plans to introduce AI chatbots to assist in handling common customer queries
+
+Slide 6:
+Conclusion By thoroughly analyzing our booking tool and customer support processes, we can pinpoint and eliminate barriers to patient appointment booking. Let's focus on these areas for immediate improvement to enhance patient experience and satisfaction.

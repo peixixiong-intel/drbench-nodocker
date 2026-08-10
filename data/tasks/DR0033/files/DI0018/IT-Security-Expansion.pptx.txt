@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+IT &amp; Security Team Expansion Overview
+
+Slide 2:
+Introduction This presentation will provide an overview of the growth and development in our IT &amp; Security team during 2024. We'll be looking at new hires, their roles, and the impact on our overall operations.
+
+Slide 3:
+Overview of 2024 Staffing Changes Consolidation of regional HR departments into a unified, central HR group Implementation of a new talent acquisition strategy to attract diverse candidates Launch of a comprehensive employee training and development program Strengthening of retention strategies, leading to a 15% decrease in staff turnover Expansion of remote work policies to cater to a distributed workforce Introduction of a new performance evaluation system Increase in total workforce by 10%, primarily in operations and logistics
+
+Slide 4:
+Profiles of New IT &amp; Security Team Members Introduction of team members with backgrounds in cloud security and data protection Highlight of new hires who are certified in industry-recognized certifications Emphasis on new team members' experience with agile development methodologies Review of new hires' previous roles in Fortune 500 companies Discussion on the diverse educational backgrounds of the new team members Showcase of new hires who have made significant contributions to open-source projects
+
+Slide 5:
+Impact of New Hires on Operational Efficiency Improvement in average response time to internal IT support tickets by 20% Enhancement of system uptime from 98% to 99.7% Increase in successful patch and update deployments by 30% Reduction in average time to detect and isolate security incidents by 25% Improvement in the efficiency of the change management process by 15% Positive impact on the organization's ISO 27001 compliance
+
+Slide 6:
+Conclusion The expansion of our IT &amp; Security team has considerably strengthened our capacity to deliver secure, efficient, and innovative services. Moving forward, we'll continue to invest in our team to support our growing business needs.

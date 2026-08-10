@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Vehicle Security Assessment: Diagnostic Port Vulnerabilities
+
+Slide 2:
+Introduction Given the evolving landscape of vehicle security, it's vital we understand the risks posed to our electric vehicles. Today, we'll delve into the physical access attacks via diagnostic ports (OBD-II) experienced in 2025.
+
+Slide 3:
+Vehicle Cybersecurity Landscape in 2025 An estimated 90% of new vehicles in 2025 are connected, increasing the overall cybersecurity risk Major automakers, including Elexion, have established dedicated cybersecurity divisions Cybersecurity investments in the automotive sector have reached an all-time high of $1.5 billion in 2025 The most common attacks include ransomware, data theft, and manipulation of vehicle control systems Regulatory bodies are pressing for stricter cybersecurity measures in connected vehicles Partnership between automakers and cybersecurity firms have increased by 30% since 2020 The average cost of a car cybersecurity breach is estimated to be $3.6 million
+
+Slide 4:
+Incidents of OBD-II Physical Access Attacks OBD-II physical access attacks have been on the rise globally, with a 15% increase in reported incidents since 2020 These types of attacks allow for unauthorized control of vehicle systems Auto manufacturers are exploring hardware and software solutions to mitigate these attacks A significant number of these attacks are targeted at commercial fleets The automotive industry is lobbying for stricter penalties for OBD-II port attacks The average financial loss due to an OBD-II physical access attack is estimated to be $2.2 million In 2024, a high-profile OBD-II attack led to a 10% drop in the affected automaker's share price
+
+Slide 5:
+Impact and Mitigation Strategies for OBD-II Vulnerabilities OBD-II vulnerabilities can lead to theft of sensitive data and unauthorized control of vehicle systems Manufacturers are employing encryption and secure coding practices to protect OBD-II ports Industry-wide adoption of a standardized security framework for OBD-II ports is being discussed Mitigation strategies include periodic security audits, vulnerability assessments, and penetration testing Industry collaboration and information sharing are key to addressing OBD-II vulnerabilities Automotive cybersecurity insurance is becoming increasingly important as a risk management tool Third-party cybersecurity firms are providing specialized services to secure OBD-II ports
+
+Slide 6:
+Conclusion It is clear that vehicle security, particularly concerning diagnostic port vulnerabilities, is a key area for our attention. Moving forward, we need to continue investing in robust security measures to ensure the safety and trust of our customers.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Streamlining IT Workflows for Enhanced Efficiency
+
+Slide 2:
+Introduction As MediConn Solutions continues to expand its virtual healthcare services, our IT operations have become vital to clinician efficiency and cost management. This presentation explores potential strategies for streamlining our IT workflows in Q4 2025.
+
+Slide 3:
+Analysis of Current IT Operations and Expenses As of Q4 2025, our operational expenses per virtual consultation average to roughly $10 CAD, indicating the cost efficiency of our IT infrastructure. This cost per consultation is a crucial baseline measure for operational efficiency and cost control. The IT operating costs directly impact the overall expenses of the company, affecting the financial health of MediConn. While virtual healthcare expansion has improved accessibility, it has also escalated our overall expenses, necessitating the need for cost optimization strategies. The current IT cost per consultation offers room for improvement, implying potential areas of cost reduction and efficiency improvement. Streamlining IT workflows could potentially reduce this cost further, thereby boosting clinician efficiency and cost management per consultation. Our goal moving forward is to leverage our IT capabilities to decrease this cost, enabling us to manage our per-consultation costs more effectively.
+
+Slide 4:
+Proposed IT Workflow Enhancements for Q4 2025 Introduction of a new IT ticketing system Implementation of ITIL framework for IT service management Upgrade of data center hardware Rollout of new cybersecurity measures Plan for the relocation of the IT department to a different office
+
+Slide 5:
+Impact on Clinician Efficiency and Per-Consultation Costs Trends in clinician efficiency over the past five years Comparison of per-consultation costs with industry averages Lapsed time between patient appointment booking and consultation Patient satisfaction metrics related to clinician efficiency Analysis of the correlation between clinician experience and consultation costs
+
+Slide 6:
+Conclusion By optimizing our IT workflows, we can significantly enhance clinician efficiency and manage per-consultation costs effectively. Let's work together to implement these strategies and ensure MediConn's robust growth in the virtual healthcare industry.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Dealer Relationships with Automotive Cloud
+
+Slide 2:
+Introduction As we strive to strengthen our dealer network, it's crucial to explore how Automotive Cloud's dealer performance management tools could contribute to our goals. Today, we will assess its potential impact on our relationship with North American dealers and our direct-to-government sales channel.
+
+Slide 3:
+Understanding Automotive Cloud's Dealer Performance Tools Examination of Elexion Automotive's dealer network sales performance revealed an uneven distribution, with our leading dealerships accounting for nearly two-thirds of total dealer revenue. As of September 2024, an identified gap in our capability was the lack of a systematic approach to share best practices and replicate the success of top-performing dealerships across our 33 locations. The introduction of Automotive Cloud's dealer performance management tools could provide a robust platform to address this gap, enhancing our dealer network's performance. By leveraging these tools, we can efficiently share successful strategies, improve knowledge transfer, and ensure consistent execution across all dealerships. The tools' potential to drive revenue growth in our dealer network could also serve to fortify our direct-to-government sales channel, allowing us to maintain our 90% market share in this area. Early adoption of these tools by 2027 will enable us to get ahead of larger manufacturer networks and regional operations groups that Salesforce is targeting as prospective users.
+
+Slide 4:
+Current State of North American Dealer Network North American market has approximately 18,000 franchised car dealerships Dealerships are diversifying into used cars, service, and parts to increase profits Dealers are investing in digital sales channels to reach more customers The average dealership size in North America is 30,000 square feet Dealerships are focusing more on customer experience to retain customers In 2022, 54% of new cars sold were SUVs, followed by compact cars and pickups
+
+Slide 5:
+Balancing Dealer Relationships and Government Sales Government sales often involve bulk purchases and longer-term contracts Dealerships may offer additional services, such as maintenance and repairs Government contracts often require adherence to specific regulatory standards Dealerships typically have a wider geographical reach than direct government sales Government sales often involve a more complex procurement process Dealerships can offer a more localized and personalized sales experience
+
+Slide 6:
+Conclusion By harnessing the power of Automotive Cloud's tools, we can enhance our relationships with dealers and maintain our strong government sales. Let's prepare to leverage these tools and initiate discussions with Automotive Cloud by Q2.

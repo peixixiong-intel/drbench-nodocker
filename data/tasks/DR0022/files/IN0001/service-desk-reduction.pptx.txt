@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Reducing Service Desk Emails by Q2 2026
+
+Slide 2:
+Introduction As we continually strive to improve our IT service operations, we've noticed a significant increase in service desk emails. Today, we'll explore potential strategies to reduce this volume by Q2 2026.
+
+Slide 3:
+Current IT Service Desk Load Analysis Our Q3 2025 data indicates that 35% of monthly service desk emails stem from inventory system access requests This represents a significant portion of overall service desk workload Streamlining inventory system access could significantly reduce service desk email volume Automating workflows, as demonstrated by a major U.S. retailer, could also contribute to a reduction in service desk emails Consolidating catalog items, as the same U.S. retailer did, could further decrease email volume Such measures could lead to faster resolution times and an improved IT service experience for our store associates Implementing these changes could potentially ease the load on our service desk by, the end of Q2 2026
+
+Slide 4:
+Enhancing ITIL-Based Practices for Efficiency We have implemented ITIL v4 practices since 2019 to manage IT services. The ITIL framework has improved the efficiency of our incident management process by 20%. We have established a regular training program for IT staff on ITIL practices. Our ITIL maturity level is 3, indicating a defined and managed process. ITIL has helped us create a standardized language for IT service management. We are planning to conduct an ITIL process audit in Q2 2026 to identify areas for improvement. We are considering developing an ITIL Service Strategy to align IT services with business needs.
+
+Slide 5:
+Proposed Changes in Incident Management Process We are considering implementing an AI-based system for initial incident classification. A proposal to update our incident prioritization matrix is in progress. We plan to improve our incident management process by incorporating predictive analytics. An initiative is underway to improve communication with users during incident resolution. We are exploring the possibility of establishing a dedicated team to handle high-priority incidents. Proposed changes aim to reduce the average incident resolution time by 15%. We are considering implementing a self-service portal for routine issues.
+
+Slide 6:
+Conclusion By optimizing our ITIL-based practices and adjusting our incident management process, we can aim to decrease the volume of service desk emails significantly. Let's work together to implement these changes and monitor the results for Q2 2026.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Patient Communication for Service Efficiency
+
+Slide 2:
+Introduction As MediConn Solutions continues to grow, effective patient communication becomes increasingly pivotal in maintaining customer satisfaction and operational efficiency. This presentation explores strategies to enhance our patient communication, aiming to reduce service calls in Q1 2025.
+
+Slide 3:
+Understanding Current Patient Communication Channels As of Q3 2024, Ontario patients have been able to utilize provincial telehealth billing codes, leading to a cost reduction of 20%. In contrast, British Columbia patients are billed at standard rates, with no provincial codes applicable. Consequently, these billing practices impact the information our customer service can provide to patients regarding their financial responsibilities. Our customer service team is equipped to communicate administrative follow-up procedures like booking referrals, while strictly adhering to regulations that prohibit the provision of medical advice. As we move into 2025, the focus is on expanding our patient communication strategies to keep up with the evolving healthcare landscape. We need to explore AI technology as a potential tool for enhancing patient communication, as suggested by Andrew Hadje of MGMA. Only 13% of healthcare group leaders are planning to focus on AI in the next 12 months, but we can position ourselves as industry pioneers by adopting it sooner.
+
+Slide 4:
+Analyzing Service Call Trends and Causes In 2023, the leading cause for service calls was billing inquiries We noticed a 20% increase in service calls during flu season The average call duration in 2024 was 8 minutes Our peak call times are typically between 10 AM and 2 PM We have seen a 10% reduction in calls related to appointment scheduling since implementing online booking Our call abandonment rate has remained consistent at around 5% over the past two years The majority of service calls are made by patients aged 50 and above
+
+Slide 5:
+Proposed Strategies for Improved Patient Communication Implementing an FAQ section on our website to proactively answer common patient queries Offering webinar sessions for patients to understand how to navigate our digital platform Utilizing social media platforms to provide updates and information Increasing the size of our customer service team to handle higher call volumes Exploring the possibility of a patient forum for peer-to-peer communication Conducting regular customer satisfaction surveys to identify areas of improvement Introducing virtual consultation options to reduce the need for physical visits
+
+Slide 6:
+Conclusion By leveraging our understanding of existing patient communication channels and service call causes, we can effectively implement refined communication strategies. These strategies aim to enhance patient experience and reduce service calls into Q1 2025.

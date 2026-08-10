@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Patient Communication for Service Efficiency
+
+Slide 2:
+Introduction As we continue to lead the digital healthcare space, it is crucial to ensure our customer service is top-notch. This presentation will discuss strategies to improve patient communication, aiming to reduce service calls in the upcoming quarter.
+
+Slide 3:
+Current Service Call Statistics and Trends Our current FAQ page for patients has been moderately effective, covering general topics; however, it lacks a depth of information to address specific scenarios. Based on a customer poll in January 2024, a significant 68% of users who visited the FAQ page still felt the need to contact our support team. A closer examination of service calls reveals that patients often need information on specific issues, such as prescription refills and billing inquiries. We have identified a gap in our self-service resources, particularly the lack of a searchable knowledge base to provide comprehensive answers to patients' queries. This shortfall in our resources not only leads to an increase in service calls but also impacts our customer satisfaction rates. Going forward, we need to consider adopting advanced patient communication technologies, such as AI, to improve our self-service resources and reduce dependency on call centers. This strategic shift aligns with the industry trend as indicated by the MGMA's November 2023 poll where 25% of healthcare leaders plan to enhance patient communication technology by 2025.
+
+Slide 4:
+Patient Communication Enhancement Strategies Implementing a new CRM system designed for healthcare to better track patient interactions Training customer service representatives on empathy and active listening skills Implementing a new ticketing system to better manage service requests Introducing a chatbot on our website to handle frequently asked questions Regularly updating our FAQ section based on common service call queries Encouraging patients to use the patient portal for non-emergency communication Developing a mobile app to allow patients to easily access their health information
+
+Slide 5:
+Projected Impact on Q1 2025 Service Calls A 5% reduction in service calls is expected due to the implementation of the new CRM system The new ticketing system is expected to streamline service requests, potentially reducing service calls by 7% The chatbot is expected to handle 10% of common queries, reducing service call volume The patient portal is projected to reduce service calls by 8% as patients shift to digital communication The mobile app is expected to provide patients with easier access to their health information, potentially reducing service calls by another 5% Overall, we are projecting a 20-25% reduction in service calls in Q1 2025
+
+Slide 6:
+Conclusion By enhancing patient communication, we anticipate a reduction in service calls at MediConn Solutions. Let's continue the conversation on implementing these strategies and measuring their success in the next quarter.

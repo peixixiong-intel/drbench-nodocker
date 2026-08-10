@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Authentication for Indigenous Patients
+
+Slide 2:
+Introduction As MediConn Solutions continues to expand its reach, it is crucial to consider the unique needs of our Indigenous patients living in low-connectivity environments. This presentation explores potential compliance controls to ensure secure authentication and patient verification.
+
+Slide 3:
+Current Authentication Measures: An Overview In FY2025, our efforts towards strengthening secure authentication protocols received a budgetary allocation of 9% from the total compliance and cybersecurity budget. This allocation translated to a significant investment of approximately $1.2M CAD, primarily focused on advancing the authentication infrastructure. These efforts underscore our commitment to meet and exceed regulatory expectations for secure digital identity verification, particularly for Indigenous patients. However, our investment in authentication controls may not be sufficient to keep pace with the evolving regulatory landscape, potentially impacting our ability to ensure secure patient verification. Looking ahead, we need to reassess our budget allocation for FY2026, with a focus on enhancing the security of our authentication systems for patients in low-connectivity environments. This strategic reallocation of resources will be crucial to uphold our commitment to providing reliable and secure remote healthcare services to all our patients, regardless of their location.
+
+Slide 4:
+Challenges in Low-Connectivity Environments Internet connectivity issues can disrupt video consultations Poor connectivity can prevent uploads of patient data in real-time Real-time monitoring of patient's health can be challenging Limitations in bandwidth make it difficult to use high-resolution imaging Patients' digital literacy might be low in these environments Limited access to technical support can make troubleshooting difficult Dependence on mobile network data can increase costs for patients
+
+Slide 5:
+Proposed Compliance Controls for Q2 2026 Introduction of machine learning algorithms to detect fraudulent activities Implementation of a blockchain-based patient data management system Regular penetration testing to identify and fix potential security vulnerabilities Automated compliance reporting to keep track of all activities Implementation of GDPR-compliant data storage and transfer protocols Increase in employee training on new compliance measures and regulations Introduction of a dedicated compliance team to handle all related issues
+
+Slide 6:
+Conclusion By implementing these proposed compliance controls, we can enhance the user experience for Indigenous patients, even in areas with low connectivity. Let's approach Q2 2026 with a firm commitment to inclusive, secure healthcare solutions.

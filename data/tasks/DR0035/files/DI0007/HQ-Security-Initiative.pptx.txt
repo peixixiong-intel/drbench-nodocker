@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Addressing Physical Security: Lee's Market HQ
+
+Slide 2:
+Introduction In this presentation, we'll discuss the measures implemented by Jason Wong to address the physical security gap at our headquarters in March 2025. These steps are crucial to ensure the safety and security of our assets and employees.
+
+Slide 3:
+Overview of Lee's Market Security Infrastructure Lee's Market employs a layered security strategy, ensuring both physical and cybersecurity measures Physical security includes CCTV cameras, motion detectors, and access control systems Cybersecurity measures include firewalls, intrusion detection systems, and regular vulnerability assessments Employee training is paramount, with annual security awareness programs Security protocols are revised every six months to address emerging threats The security department collaborates with other departments to integrate security into their processes Lee's Market follows the ISO 27001 framework for information security management
+
+Slide 4:
+Jason Wong's Initiative in March 2025 Jason Wong, the Head of Security, has been with Lee's Market for over 10 years Jason is a Certified Information Systems Security Professional (CISSP) Jason's focus areas include risk management, physical security, and cybersecurity In March 2025, Jason undertook a significant initiative to enhance security The project involved collaboration with multiple departments, including IT and HR Jason's leadership style encourages proactive threat identification and mitigation Jason is recognized for his commitment to maintaining high security standards
+
+Slide 5:
+Impact and Evaluation of Security Measures Regular audits are conducted to assess the effectiveness of security measures Feedback from these audits helps to improve and streamline security protocols The overall security incident rate has seen a decline over the past three years Employee compliance with security protocols is measured and tracked The security department uses key performance indicators (KPIs) to evaluate its performance These KPIs include the number of security incidents, response time, and resolution time Continuous improvement is a fundamental principle of Lee's Market's security approach
+
+Slide 6:
+Conclusion The security initiatives implemented by Jason Wong have significantly enhanced our physical security. Moving forward, we should consider these measures as a standard practice across all our locations to maintain the assured safety of our employees and assets.

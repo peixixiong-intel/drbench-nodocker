@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Securing MediConn's Virtual Healthcare Services
+
+Slide 2:
+Introduction As the digital landscape evolves, so do the security threats facing our virtual healthcare services. This presentation discusses our strategy for managing security protocols, ensuring regulatory compliance, and preventing security risks.
+
+Slide 3:
+Current IT Service Management Security Protocols In Q4 2024, we incorporated an additional 800 devices into our ITSM inventory system, signifying a significant growth in our digital healthcare network. This growth was facilitated through the systematic use of automated discovery tools, ensuring efficient tracking of IT assets and remote medical devices. The successful identification and tracking of these devices underlines the robustness of our current ITSM security protocols. Through these protocols, we can maintain a proactive approach in identifying potential IT issues and securing sensitive medical data. The increased number of devices in our ITSM inventory system reflects our commitment to the expansion and improvement of our virtual healthcare services. Our future focus will be on continuing to enhance ITSM protocols, ensuring regulatory compliance, and implementing preventive measures against network and information system security risks.
+
+Slide 4:
+Assessing Information System Security Risks Completed an IT risk assessment in Q4 2024, identifying vulnerabilities in our current IT infrastructure Utilized AI-powered predictive analytics tools to forecast potential system threats in Q1 2025 Initiated a series of IT audits in Q2 2024 to validate system security and data integrity Formed a cross-functional IT risk management committee in Q3 2024 Implemented a cloud-based risk management solution in Q1 2025 to centralize risk data collection and analysis Performed a gap analysis in Q4 2024 to identify areas where our IT security practices diverge from industry standards
+
+Slide 5:
+Preventive Measures for Electronic Medical Data Upgraded our data encryption algorithms in Q2 2024 to better protect patient information Conducted regular penetration testing activities in 2024 to identify vulnerabilities in our systems Introduced multi-factor authentication for all users accessing patient data in Q3 2024 Launched an organization-wide cybersecurity awareness training program in Q1 2025 Implemented a disaster recovery plan in Q4 2024 to ensure data continuity in the event of a system failure Integrated an advanced threat detection system in Q1 2025 to identify and neutralize cyber threats in real-time
+
+Slide 6:
+Conclusion By proactively managing our security protocols and continuously assessing risks, we can safeguard our electronic medical data. Going forward, we must continue to adapt and evolve our preventive measures to remain compliant and protect our customers.

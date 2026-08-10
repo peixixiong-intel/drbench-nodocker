@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Customer Experience with AI
+
+Slide 2:
+Introduction As we aim to enhance our shoppers' experiences, we are exploring the potential of AI tools such as chatbots and conversational AI. This presentation will outline how these technologies can personalize the customer journey through 2030 and beyond.
+
+Slide 3:
+Current Customer Service Landscape at Lee's Market In the month of June 2024, we saw a significant shift in our customer service interactions, with about 65% of our recurring shopper base utilizing digital channels. The majority of these digital interactions occurred through our messaging apps and social media platforms, surpassing traditional methods of communication such as phone and email. With the rising preference for digital, we must consider the global chatbot market, which is predicted to expand from $2.9 billion in 2021 to $10.5 billion by 2026, at a 23.5% CAGR. The Grocery Doppio report indicates that over 62% of grocery shoppers appreciate fast, real-time support provided by AI chats or virtual assistants, aligning with our own observation. Our current digital customer service strategy aligns with market trends, but we need to further enhance our AI capabilities to meet the increasing demand. The integration of AI tools, including chatbots and conversational AI, will cater to our customers’ evolving preferences and can significantly elevate the shopping experience for our customers.
+
+Slide 4:
+Potential of AI in Retail Customer Experience AI can enable personalized marketing campaigns based on customer data AI can help in inventory management and demand forecasting Retailers can use AI for price optimization and dynamic pricing AI can help retailers in detecting fraudulent activities and ensuring security AI can allow retailers to gain insights from customer data and improve decision-making AI can automate routine tasks and improve operational efficiency
+
+Slide 5:
+Implementation Strategy for AI Tools We will start by conducting a thorough needs assessment and identifying key areas for AI integration A cross-functional team will be created to oversee the AI implementation process We will select AI vendors based on their expertise, reliability, and cost-effectiveness A phased implementation approach will be adopted to minimize disruptions Regular training sessions will be conducted to help employees adapt to the new AI tools Performance metrics will be established to measure the success of AI implementation
+
+Slide 6:
+Conclusion By integrating AI tools into our customer service operations, we can provide a personalized, efficient, and satisfying shopping experience for our customers. It's time to take the next steps in exploring suitable AI solutions, identifying potential partners, and preparing a detailed implementation plan.

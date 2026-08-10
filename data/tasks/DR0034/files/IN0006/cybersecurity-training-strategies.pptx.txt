@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Cybersecurity Training Amid Limited Resources
+
+Slide 2:
+Introduction As Lee's Market continues to grow, the importance of robust cybersecurity measures cannot be overstated. This presentation will delve into strategies for strengthening our employee cybersecurity training, despite limited IT resources, to minimize the risk of potentially damaging cyberattacks.
+
+Slide 3:
+Current Cybersecurity Landscape in Retail The year 2025 has seen an 80% increase in cyberattacks on retailers, highlighting the need for robust security measures at Lee's Market. Operational downtime, the leading cause of these cyberattacks, has resulted in reputational damage to 53% of retailers, emphasizing the criticality of smooth daily operations for Lee's Market. In Q1 2025, Jason Wong led a cross-departmental initiative to strengthen employee cybersecurity training, a key factor in mitigating cyberattack risks. This initiative resulted in the speedy rollout of training modules for new hires, with a 25% improvement in deployment speed. The accelerated training program has enabled quicker onboarding of new staff, enhancing the overall security posture of Lee's Market. Collaborations between Jason Wong, HR, and Operations have been key to this success, fostering a culture of cybersecurity awareness across the company. Our proactive approach to cybersecurity training is targeted at mitigating potential threats to our reputation and operations, crucial for customer retention.
+
+Slide 4:
+Assessing Our Cybersecurity Training Needs In 2024, 76% of employees completed mandatory cybersecurity training. Feedback from the 2024 training indicated that 68% of employees found the content useful in their roles. The 2024 training covered topics such as password security, email phishing, and secure browsing. The 2024 cybersecurity awareness campaign increased the reported phishing attempts by 22%. The IT department carried out quarterly security audits in 2024, which led to a 15% increase in detected vulnerabilities. In 2024, there was a 27% decrease in successful cyberattacks compared to 2023.
+
+Slide 5:
+Strategic Implementation of Enhanced Cybersecurity Training The IT department aims to increase employee participation in cybersecurity training by 10% in 2026. The 2026 training will introduce topics like advanced phishing tactics and mobile device security. The IT department plans to implement a new cybersecurity training platform in Q1 2026. In 2026, the IT department will conduct bi-monthly security audits to detect threats more quickly. The goal for 2026 is to reduce the number of successful cyberattacks by 30% compared to 2025. The IT department will launch a new cybersecurity awareness campaign in Q2 2026.
+
+Slide 6:
+Conclusion By understanding our current cybersecurity landscape and accurately assessing our training needs, we can strategically implement enhanced training initiatives. These steps will position us to reduce our vulnerability to cyberattacks, ensure the smooth running of our operations, and safeguard our financial stability.

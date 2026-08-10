@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Analyzing Mobile Access of Medical Records
+
+Slide 2:
+Introduction We will be discussing how our platform's mobile app has been utilized in FY2025, particularly focusing on accessing medical records. This data will provide valuable insights for our user engagement strategy.
+
+Slide 3:
+Overview of MediConn Mobile App Usage Mobile app launched in Q2, 2018, targeting a seamless patient experience App downloads have increased by 35% in FY2025 compared to FY2024 The app is rated 4.5/5 on the Apple App Store and 4.2/5 on Google Play Store 65% of our user base is from North America, with the rest scattered globally The app has facilitated over 1 million consultations in FY2025 The app allows consultations, prescription renewals, and access to medical records Users have reported a 90% satisfaction rate with the mobile app
+
+Slide 4:
+User Access of Medical Records via Mobile Medical records are encrypted and securely stored in our cloud-based servers User-friendly interface allows easy access to medical records Option to download and print medical records was introduced in Q1, 2025 Users can share their medical records with their healthcare providers via the app In FY2025, our platform saw a 20% increase in users accessing their medical records A significant number of users have reported the ease of accessing medical records as a key benefit of the app
+
+Slide 5:
+Implications and Future Strategy Our strategy focuses on enhancing the user experience and implementing user feedback We aim to expand our global user base by 25% in FY2026 Future updates will include the integration of wearable health data into medical records We plan on investing an additional 15% in R&amp;D to improve the mobile app functionality Our strategy includes partnering with more healthcare providers for seamless integration We anticipate the trend of accessing medical records via mobile to continue growing
+
+Slide 6:
+Conclusion Our understanding of how users interact with their medical records via our mobile app is crucial for future development. We will continue to analyze data trends and user feedback to enhance our platform's functionalities and user experience.

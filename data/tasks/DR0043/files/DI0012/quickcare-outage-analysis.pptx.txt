@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+QuickCare Telehealth Platform Analysis
+
+Slide 2:
+Introduction This presentation will provide an overview of the recent QuickCare Telehealth platform outage, its implications for MediConn Solutions, and potential future strategies to prevent similar occurrences.
+
+Slide 3:
+Overview of Telehealth Market Telehealth market expected to reach $185.6 billion by 2026 worldwide Canada's telehealth industry has grown by 12% annually since 2020 The pandemic accelerated the adoption of telehealth by 60% in 2020 Telehealth reduces healthcare costs by 30% and increases efficiency MediConn Solutions ranks 3rd in Canada's telehealth market share Regulatory changes in 2024 enabled more telehealth services in rural areas
+
+Slide 4:
+QuickCare Platform Outage Analysis QuickCare’s platform supports over 10,000 daily patient interactions Their IT department consists of 75 professionals QuickCare has a 99.8% platform uptime target They have invested $15M into platform development since 2022 In 2024, they made significant upgrades to their system's cybersecurity measures
+
+Slide 5:
+Future Risk Mitigation Strategies MediConn plans to increase IT budget by 20% in 2026 Implementing AI-driven predictive maintenance to reduce outage risks Upgrading to a more reliable cloud service provider next year Enhancing cybersecurity measures to prevent data breaches Conducting regular system audits to ensure optimal performance Developing a robust disaster recovery plan
+
+Slide 6:
+Conclusion Understanding the QuickCare Telehealth platform outage allows us to not only adapt our current systems but also develop robust strategies for future risk mitigation. Let's ensure we are prepared and continue to provide reliable virtual healthcare services to our clients.

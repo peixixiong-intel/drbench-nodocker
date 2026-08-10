@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing ITSM Security &amp; Compliance for MediConn
+
+Slide 2:
+Introduction In our continuous effort to protect sensitive healthcare data, we need to focus on strengthening our IT service management security protocols. This presentation will outline our strategic approach towards ensuring regulatory compliance and mitigating potential security risks.
+
+Slide 3:
+Current State of ITSM Security Protocols Since the integration of ITSM-based security measures, we have observed a significant improvement in our network's security posture. Notably, the number of incidents related to network breaches has seen a substantial reduction. Our Q4 2024 internal security report indicates a 30% decrease in such incidents, underscoring the effectiveness of our ITSM protocols. This decrease demonstrates the critical role of our ITSM solution in safeguarding sensitive medical data. The strengthened security framework has not only enhanced patient trust but also ensured regulatory compliance. As we move forward, these preventive measures will continue to be crucial in our efforts to manage security risks effectively. The use of AI and IoT in our ITSM tools has further bolstered our ability to predict and prevent potential IT issues.
+
+Slide 4:
+Regulatory Compliance in Virtual Healthcare MediConn Solutions has been compliant with the Personal Information Protection and Electronic Documents Act (PIPEDA) since 2015. We follow guidelines set by the Canadian Medical Protective Association (CMPA) for telemedicine practice. We recently passed a compliance audit by the Office of the Privacy Commissioner of Canada in November 2024. Our compliance team is currently working on implementing the new standards set by the Canadian Health Information Management Association (CHIMA). We maintain a clear distinction between clinical and non-clinical data to ensure appropriate handling. We have adopted a comprehensive governance model to manage data privacy and integrity.
+
+Slide 5:
+Preventive Measures Against Network Security Risks MediConn Solutions has implemented network segmentation to enhance security. Our IT team conducts regular vulnerability assessments to identify potential threats. We have a well-defined incident response plan in place for network security incidents. We use intrusion detection systems (IDS) to monitor and alert about potential cyber threats. We have a dedicated Disaster Recovery team and a robust Business Continuity Plan (BCP). We conduct regular training sessions for employees on cybersecurity best practices. We have a strict password policy and use two-factor authentication for sensitive systems.
+
+Slide 6:
+Conclusion By investing in robust security protocols, keeping abreast with compliance regulations, and proactively addressing potential risks, we can ensure the safety and integrity of our virtual healthcare services. Let's work together to make MediConn a leader in secure, compliant digital healthcare delivery.

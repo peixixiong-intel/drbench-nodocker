@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Patient Experience through AI-Integrated ITSM
+
+Slide 2:
+Introduction Today, we're discussing how AI-integrated IT Service Management can further support our remote care and mobile health applications. This will enable us to maintain our high compliance standards and enhance user experience.
+
+Slide 3:
+Current ITSM Process &amp; Challenges As of September 2025, our IT Department has managed to automate a fraction of routine IT requests, specifically around 18%, using internal procedures. This level of automation, while helpful, leaves a significant portion of requests still requiring manual intervention and could be improved. The automation of routine IT requests not only optimizes our team's efficiency but also enhances the support experience for our remote care and mobile health app users. Our current challenge is to scale this automation, ensuring seamless experience and GDPR compliance, while also handling complex queries that cannot be automated. Implementing AI-integrated ITSM can potentially increase the percentage of automated requests, freeing up our team to focus on more complex, non-routine tasks. Knowledge-centered service (KCS) which documents standard solutions to common recurring service calls, as highlighted by TOPdesk, could be a valuable asset in our automation initiative. The adoption of AI-integrated ITSM could also aid in automated evidence collection and audit preparation, helping us maintain compliance with healthcare regulations.
+
+Slide 4:
+Exploring AI Capabilities in ITSM AI can automate routine tasks, potentially reducing the workload on the IT service desk Neural networks can help predict the complexity of incoming service requests Machine learning algorithms can be trained on historical service request data Natural language processing can assist in interpreting and categorizing service requests AI can be used to simulate human interactions in chatbots for initial service request handling While AI can improve ITSM, it also poses challenges such as data privacy and algorithmic bias The integration of AI in ITSM requires substantial investment in AI technology and skills
+
+Slide 5:
+Action Plan for AI-Integrated ITSM Implementation Review current ITSM processes to identify areas for AI integration Estimate budget for AI technology acquisition and skills training Develop a detailed project plan for AI integration, involving all stakeholders Set realistic and measurable goals for AI integration in ITSM Establish a dedicated AI implementation team within the IT department Plan for regular reviews and adjustments during the AI integration process Develop a robust data privacy framework to address potential AI data privacy issues
+
+Slide 6:
+Conclusion With careful planning and strategic implementation, AI-integrated ITSM can significantly improve our support of remote care and mobile health services. Let's move forward with identifying potential AI vendors and preparing our IT team for this transformative step.

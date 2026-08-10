@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Platform Redesign Impact Assessment
+
+Slide 2:
+Introduction This presentation aims to provide an analytical overview of the impact of our recent platform redesign on attracting potential new patients. We'll explore key metrics, patient feedback, and industry trends.
+
+Slide 3:
+Industry Trends in Virtual Healthcare In 2023, the virtual healthcare market saw a 25% growth compared to previous years An increasing number of patients prefer virtual consultations for minor health issues The virtual healthcare industry is projected to reach $5 billion by 2026 Telehealth initiatives have been widely adopted by rural communities Regulatory changes have enabled more virtual healthcare services to be covered by insurance The pandemic has accelerated the adoption of virtual healthcare services across Canada
+
+Slide 4:
+Patient Feedback and Engagement Metrics Average session duration on the platform has increased by 10% since 2022 The platform's net promoter score remained steady at 85% throughout 2023 There was a 30% increase in patient queries through the live chat feature in 2023 95% of patients rated the platform's user interface as 'easy to use' In-app survey showed that most patients found the booking process straightforward Majority of the patients appreciate the personalized care plans offered on the platform
+
+Slide 5:
+New Patient Acquisition Post-Redesign The company's overall patient base has grown by 30% in 2023 In 2023, the company saw a steady increase in the number of corporate clients The platform's mobile app downloads increased by 20% post-redesign The average rate of patient referrals has increased by 15% after the redesign The company has expanded its service to three additional provinces since the redesign There was a significant increase in engagement on the company's social media platforms post-redesign
+
+Slide 6:
+Conclusion Our platform redesign has shown a positive impact on attracting new patients, as reflected in our acquisition metrics. Moving forward, we should focus on enhancing user experience further and aligning our services with the evolving industry trends.

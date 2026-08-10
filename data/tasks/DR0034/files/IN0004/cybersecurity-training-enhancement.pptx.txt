@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Strengthening Employee Cybersecurity Training in Retail
+
+Slide 2:
+Introduction As we continue to grow and expand our digital footprint, strengthening our cybersecurity training has become of paramount importance to prevent any potential cyberattacks. This presentation outlines how we can leverage our limited resources to enhance our security measures in this area.
+
+Slide 3:
+Current Cybersecurity Threat Landscape in Retail With daily processing of thousands of transactions, digital POS and e-commerce platforms at Lee's Market are under constant cyber threat. Approximately 65% of reported cyberattacks in the retail sector target these critical business systems. Given the high risk, it is crucial to prioritize employee training on POS and e-commerce platform security in the first three quarters of 2026. The industry has witnessed 80% of retailers being victims of cyberattacks in the previous year, emphasizing the urgent need for a robust cybersecurity training program. Lee's Market's brand reputation and operational efficiency hinge on the effectiveness of our cybersecurity measures; 53% of retailers have experienced reputational damage following security breaches. Furthermore, 68% of retailers reported operational downtime as the most common consequence of cyberattacks, directly affecting customer trust and revenue streams. It is therefore imperative that our cybersecurity training and incident response processes be designed to mitigate these threats and minimize potential damage.
+
+Slide 4:
+Review of Our Existing Employee Cybersecurity Training Our current training program was last updated in Q3 2024 The program covers standard cybersecurity topics like phishing, malware, and safe internet usage As of December 2024, 80% of our employees have completed the training We utilize a combination of in-person workshops and online modules for training Since implementation in 2020, our training program has seen an overall positive feedback score of 4.2/5 from employees
+
+Slide 5:
+Efficient Use of Limited IT Resources for Enhanced Cybersecurity Our IT department currently consists of 20 full-time employees and 10 contractors We have implemented automation tools to handle routine tasks and free up our resources for more complex issues Our IT budget for 2025 is $5 million, a 10% decrease from 2024 We have partnerships with several cybersecurity vendors to extend our capabilities We are exploring the use of AI and machine learning for threat detection and response
+
+Slide 6:
+Conclusion By staying abreast of current threats, reviewing and improving our training program, and using our IT resources efficiently, we can significantly reduce the risk of operation disruptions and financial losses due to cyberattacks. Our next step should be to roll out an updated cybersecurity training program by Q3 2027.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Q1 2025 Customer Engagement Metrics
+
+Slide 2:
+Introduction This presentation will delve into our Q1 2025 customer engagement metrics, focusing on customer surveys. The insights will help us understand our customers' in-store experiences across all Lee's Market locations.
+
+Slide 3:
+Overview of Customer Engagement Channels Lee's Market utilizes both online and offline channels to engage with customers Our retail stores offer a traditional shopping experience with a modern twist Lee's Market's online platform is user-friendly and offers a wide range of products We provide home delivery services to cater to the needs of our busy customers Social media channels are used to connect with younger demographics and share promotional content Monthly newsletters are sent to all registered customers to keep them updated on new products and offers We also organize in-store events to directly interact with our customers and gather their feedback
+
+Slide 4:
+Q1 2025 In-Store Customer Survey Data The survey was conducted across all our store locations The survey focused on customer satisfaction, product quality, and store cleanliness We used a 5-point Likert scale for most questions in the survey The survey data is currently being analyzed by our data science team Preliminary findings suggest that customers are satisfied with our product range The survey data will be used to improve our services and offerings We plan to conduct similar surveys in the future to gather continuous customer feedback
+
+Slide 5:
+Impact of Customer Feedback on Operational Efficiency Feedback from customers helps us identify areas of improvement We have seen a significant improvement in store operations based on past feedback Customer feedback also aids in optimizing our product range It helps us understand customer preferences and shopping behaviors We have implemented changes in store layout based on customer feedback Our delivery services have also improved thanks to constructive customer feedback Overall, customer feedback has a direct and positive impact on our operational efficiency
+
+Slide 6:
+Conclusion Our Q1 2025 customer surveys have provided invaluable insights into our in-store customer experiences. Utilizing this data, we can enhance our operational efficiency and continue to improve customer satisfaction.

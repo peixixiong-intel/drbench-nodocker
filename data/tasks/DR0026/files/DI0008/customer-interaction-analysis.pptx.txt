@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Q4 2024 Customer Interaction Analysis
+
+Slide 2:
+Introduction Today, we'll be discussing our customers' usage of in-store self-checkout kiosks in Q4 2024. This analysis will provide insights into our customer behavior and their interaction with our technology.
+
+Slide 3:
+Overview of In-Store Technology Usage In Q4, there was a 12% rise in the use of our mobile app for in-store navigation The number of customers using in-store WiFi saw a 15% increase over the quarter The digital coupon usage increased by 20% compared to the same period last year In-store digital signage influenced 30% of impulse purchases during the holiday season Contactless payment options were utilized in 65% of transactions in Q4 The 'Scan &amp; Go' feature was used by 22% of customers, showing a slight increase compared to Q3
+
+Slide 4:
+Detailed Analysis of Self-Checkout Kiosk Interactions The average transaction time at self-checkout kiosks was 3 minutes and 15 seconds Approximately 18% of total transactions were conducted via self-checkout kiosks There was a 5% decrease in self-checkout kiosk usage during peak hours Analysis shows a slight preference for self-checkout among customers aged 25-35 The number of items per transaction at self-checkout kiosks averaged at 12 The error rate at self-checkout kiosks remained steady at around 2% throughout Q4
+
+Slide 5:
+Comparison with Traditional Checkout Metrics Traditional checkouts handled 82% of total transactions in Q4 Average transaction time at traditional checkouts was 5 minutes and 30 seconds The item count per transaction at traditional checkouts averaged at 20 Customer satisfaction scores were marginally higher for traditional checkouts During peak hours, traditional checkouts processed 90% of transactions Customers aged over 45 showed a strong preference for traditional checkouts
+
+Slide 6:
+Conclusion In conclusion, our self-checkout kiosks have been well-utilized by our customers. This usage data can inform further investment in technology to improve the shopping experience at Lee's Market.

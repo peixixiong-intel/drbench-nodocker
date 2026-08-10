@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Cybersecurity with MSSPs
+
+Slide 2:
+Introduction As we continue to expand our digital footprint, it's crucial we consider strategic partnerships to augment our cybersecurity infrastructure. This presentation explores how Managed Security Service Providers (MSSPs) can help us alleviate internal resource constraints and enhance our threat management.
+
+Slide 3:
+Current Cybersecurity Landscape at Lee's Market From March to June 2025, our IT and Security team dealt with the introduction of three significant regulatory changes relating to data privacy. The new mandates presented additional challenges to our already resource-constrained internal security team. In the current cyber threat environment, where 80% of retailers have experienced cyber attacks, our in-house capabilities may not suffice. A failure to effectively manage these threats can result in regulatory fines, experienced by 33% of retailers following a cyberattack, and reputational damage, incurred by 53% of retailers. Engaging MSSPs could provide a robust and dedicated resource that responds to these evolving threats and regulations more dynamically. By leveraging MSSPs, we can reduce our risk exposure, ensuring operational continuity and mitigating potential reputational damage.
+
+Slide 4:
+Prospects and Benefits of Adopting MSSPs MSSPs offer 24/7 security monitoring and threat detection capabilities They provide access to a broader pool of cybersecurity expertise MSSPs can help maintain compliance with evolving regulatory requirements They offer cost-effectiveness compared to maintaining a large in-house security team MSSPs also provide scalability as the company's digital footprint expands They allow the internal IT team to focus on strategic initiatives MSSPs can provide disaster recovery and business continuity planning services
+
+Slide 5:
+Projected Outcomes: Threat Management, Compliance and Trust Improved threat detection capabilities could lead to a reduction in successful cyberattacks Enhanced compliance management could minimize regulatory fines Increased customer trust due to stronger data protection measures Better disaster recovery planning can shorten response time to security incidents The ability to quickly scale security measures as the company expands Greater focus on strategic initiatives by the internal IT team Potential cost savings through outsourcing certain security tasks
+
+Slide 6:
+Conclusion Adopting MSSPs can efficiently address our cybersecurity challenges, ensuring robust threat management and regulatory compliance. This strategic move can also significantly improve our customer trust and loyalty, integral to Lee's Market's success.

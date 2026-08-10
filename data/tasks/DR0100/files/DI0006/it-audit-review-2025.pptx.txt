@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Internal IT Audit Review 2025
+
+Slide 2:
+Introduction This presentation aims to review our internal IT audit activities in 2025. It provides insights into the number, scope, and results of audits conducted during the year.
+
+Slide 3:
+Overview of IT Audit Landscape IT audits are designed to evaluate the management of systems and processes Risk-based approach to IT audits is commonly adopted in the industry In 2024, the industry observed a 15% increase in IT audits Regulatory compliance is a significant driver for IT audits IT audits often assess the effectiveness of information security and data governance Cybersecurity audits have become more prevalent in the healthcare industry Third-party vendors are often involved in conducting IT audits
+
+Slide 4:
+2025 IT Audit Execution and Insights A risk-based approach was used for IT audits in 2025 IT audits were focused on data protection, cybersecurity, and regulatory compliance Audit findings were used to improve IT governance and processes Key areas of focus included data management, business continuity, and IT infrastructure External vendors were engaged for special audits IT audits provided insights for strategic IT planning The IT department worked closely with the audit team to address identified risks
+
+Slide 5:
+Audit Impact on IT Infrastructure IT audits helped in identifying potential risks in the IT infrastructure Recommendations from audits were incorporated into IT infrastructure planning IT audits led to changes in data management, cybersecurity, and business continuity practices IT audits resulted in the adoption of new technologies to enhance data security IT infrastructure upgrades were prioritized based on audit findings The IT team worked on refining its disaster recovery strategy post audits
+
+Slide 6:
+Conclusion The IT audits conducted in 2025 have significantly contributed to improving our virtual healthcare services. Going forward, we intend to continue strengthening our IT infrastructure based on the insights derived from these audits.

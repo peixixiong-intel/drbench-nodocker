@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Browser Update Campaign: May 2025 Overview
+
+Slide 2:
+Introduction Today, we'll review the browser update enforcement campaign led by Jason Wong in May 2025. This campaign was aimed at improving our online and delivery service user experience.
+
+Slide 3:
+Browser Usage Statistics of Lee's Market Customers Chrome is the most-used browser among our customers, accounting for 65% of total usage Firefox and Safari come next, with 20% and 10% usage, respectively Edge and other browsers account for the remaining 5% of usage In the last quarter, there was a 3% increase in mobile browser usage among our customers There is a trend of increasing usage of privacy-focused browsers like Brave and Tor, but still, they represent less than 1% of total usage We observed that customers using updated browsers tend to spend 15% more time on our site
+
+Slide 4:
+Overview of May 2025 Browser Update Campaign The campaign was planned and executed in collaboration with our IT and Marketing departments We used a phased rollout approach to minimize potential disruptions to our online services We targeted all major browsers including Chrome, Firefox, Safari, and Edge Email notifications were sent to all staff members informing them about the update We monitored the campaign progress using real-time analytics and dashboards The campaign was concluded successfully within the planned timeframe
+
+Slide 5:
+Impact of Browser Update Campaign on Online Sales There was a slight decrease in online sales immediately after the campaign, likely due to temporary disruption A week after the campaign, online sales returned to normal levels In the following month, we noticed a 7% increase in online sales compared to the previous month The checkout process on our website became smoother for customers using updated browsers Our website's loading time improved, which may have contributed to the increase in sales
+
+Slide 6:
+Conclusion The browser update enforcement campaign has played a significant role in enhancing our customer's online shopping experience. Moving forward, we'll continue to monitor browser usage trends and make necessary updates to meet our customers' needs.

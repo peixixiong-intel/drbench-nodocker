@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Leveraging AI in EV Customization and Sustainability
+
+Slide 2:
+Introduction As Elexion Automotive continues to innovate in the electric vehicle market, it's essential we explore new technologies to meet our customers' needs. This presentation discusses how digital twins and AI-driven digital engineering can enable scalable customization and sustainable manufacturing.
+
+Slide 3:
+Enhancing EV Customization with Digital Twins As part of our 2026 digital readiness roadmap, our team is poised to digitize and calibrate a significant number of production assets, totaling to 1850 by August 5, 2026. These assets will play a crucial role in AI-integrated digital twin simulations, enabling scalable customization of our EV models. By leveraging digital twins, potential risks can be identified and mitigated early in the design and production stages, reducing material waste, reworks, and unexpected downtime. The integration of AI into our digital twin simulations will promote effective teamwork across design, production, and maintenance departments through the use of shared digital models. The unified view of product data from IoT sensors, production lines, and enterprise platforms will facilitate faster and more informed decision-making across the EV lifecycle. Efficient utilization of these digitized assets will aid in maintaining sustainable resource usage and reducing production costs. This strategic initiative aligns with our commitment to provide affordable EV options for mid-income families while accelerating the transition to zero-emission transportation.
+
+Slide 4:
+Sustainable Manufacturing through AI-Driven Digital Engineering AI-driven digital engineering can help to predict and optimize energy consumption during manufacturing Companies using AI in their manufacturing processes have reported a 20% reduction in waste Elexion's AI initiatives have so far focused on improving the efficiency of our battery production line Predictive maintenance, enabled by AI, can reduce equipment downtime and associated costs AI can also optimize logistics and supply chain management, reducing carbon emissions
+
+Slide 5:
+Balancing Customization and Cost in EV Production Greater customization requires more complex production processes, potentially increasing costs Elexion currently offers customers a choice of three different battery sizes in our vehicles By standardizing certain components, costs can be reduced while still offering a degree of customization Elexion's most popular custom feature is our range of interior finishes As of Q2 2025, customization options accounted for 12% of Elexion's total production costs
+
+Slide 6:
+Conclusion Implementing AI-enhanced digital twins could revolutionize our approach to EV customization and sustainability. As our next steps, we should identify potential partners for technological integration and begin feasibility studies for this initiative.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+IT Modernization for Virtual Care Excellence
+
+Slide 2:
+Introduction As MediConn Solutions continues to lead in the remote healthcare industry, it's critical we align our IT modernization efforts with national virtual care standards. This presentation explores potential strategic directions for our digital health infrastructure by 2026.
+
+Slide 3:
+Current National Virtual Care Standards Adoption of hybrid cloud model in line with modernizing IT infrastructure and following national virtual care standards. Expected to achieve approximately 25% cost savings in cloud infrastructure per active patient session by Q3 2026. The cost reduction is primarily due to leveraging vendor competition and optimized regional deployment in a multi-cloud environment. The implementation of a hybrid cloud model is in line with national trends towards shared digital health infrastructure. The cost savings will allow MediConn to invest more in other IT modernization efforts, ensuring alignment with evolving virtual care standards. The hybrid cloud model will provide scalability and flexibility, essential to meet the dynamic demands of virtual healthcare. Adequate planning and execution of the migration strategy will be critical in achieving these cost savings and aligning with national standards.
+
+Slide 4:
+Digital Health Infrastructure: Current State and Future Directions The Canadian Telehealth Forum was established in 2003 to promote telehealth technology The Canada Health Infoway invested $500 million in digital health initiatives in 2018 The Digital Health Canada association provides resources and certification for digital health professionals The Health Innovation Fund is investing in new technologies to improve patient outcomes The Government of Canada plans to expand rural broadband access to improve telehealth capabilities
+
+Slide 5:
+Strategic IT Modernization for Healthcare Excellence The IT department is currently working on updating our legacy systems We are exploring partnerships with leading technology providers Our data analytics capabilities are being enhanced for better decision making A new patient portal is under development to improve patient engagement We are investing in artificial intelligence to provide predictive health insights
+
+Slide 6:
+Conclusion Aligning our IT modernization with national virtual care standards and shared digital health infrastructure is essential for our continued growth. Let's embrace these strategic directions to ensure our leadership position in the virtual healthcare industry by 2026 and beyond.

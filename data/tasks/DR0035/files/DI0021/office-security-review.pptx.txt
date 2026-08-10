@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Office 365 Security Enhancements Review
+
+Slide 2:
+Introduction This presentation will provide an overview of the recent security enhancements in our Office 365 system. We will focus particularly on the conditional access policies implemented by our team.
+
+Slide 3:
+Office 365 Security Overview Office 365 is equipped with advanced security features to protect against cyber threats The security measures include data loss prevention, threat intelligence, and advanced threat protection Lee's Market has been utilizing Office 365 security measures since its implementation in 2020 Employee training on security measures has been conducted twice annually The IT department conducts regular audits to ensure all security features are functioning optimally Security updates are regularly installed and maintained by IT In 2024, the IT department detected and blocked 350 potential phishing attempts
+
+Slide 4:
+Conditional Access Policies Implementation Conditional Access is a tool used by Office 365 to provide extra security It allows administrators to control who has access to company data The implementation of Conditional Access Policies began in Q4 of 2023 Training on Conditional Access Policies was provided to all system administrators Various policies have been implemented, including device compliance, sign-in risk, and location Since implementation, there's been a 15% decrease in unauthorized access attempts The IT department reviews Conditional Access Policies quarterly
+
+Slide 5:
+March 2025: Jason Wong's Policy Activation Jason Wong is a senior system administrator with Lee's Market He has been responsible for several policy implementations since joining in 2023 In March 2025, Jason was working on various projects related to system security Jason attended a Cybersecurity conference in early March 2025 Post the conference, Jason implemented new strategies to enhance system security Jason's actions have always aligned with the company's goal of ensuring maximum data security
+
+Slide 6:
+Conclusion As we have seen, Jason Wong's policy activation significantly improved our security posture in March 2025. Moving forward, we should continue to monitor and adjust our policies based on the evolving cyber threat landscape.

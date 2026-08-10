@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Q2 2024 Sales Response Analysis
+
+Slide 2:
+Introduction This presentation will explore our sales team's performance in terms of customer inquiry response times during Q2 2024, a period marked by competitor EV launches. We will examine the measures taken, challenges faced, and opportunities for improvement.
+
+Slide 3:
+Competitor EV Launches Overview Tesla introduced Model Z in April 2024, focusing on the luxury EV market segment Rivian released R2X, their second all-electric SUV, in May 2024, targeting outdoor enthusiasts GM released an upgraded version of the Bolt in June 2024, emphasizing affordability Ford announced an all-electric version of their popular F-150 truck, expected in Q3 2024 Lucid Motors expanded their Air lineup with a new Sedan model in June 2024 Volkswagen introduced ID.4 GTX, a performance-focused variant of their ID.4 model in May 2024
+
+Slide 4:
+Customer Inquiry Response Time Analysis Average response time for all EV companies is 12 hours Top performers in customer response are Tesla and BMW, with an average response time of 10 hours The industry saw an overall 5% increase in response time from Q1 to Q2 2024 Elexion's customer support team size increased by 20% in Q2 2024 The highest volume of inquiries comes in the first week following a new vehicle launch Elexion's customer inquiry response time tends to be longer during weekends and public holidays
+
+Slide 5:
+Strategies for Improvement Implement a new CRM system to automate and streamline customer inquiries Increase customer support team size to handle increased volume during product launches Develop an FAQ section on the website to address common customer inquiries Provide regular training to the customer support team on new product features Introducing a live chat feature on the website for immediate customer assistance Implementing a 24/7 customer support service to improve response times
+
+Slide 6:
+Conclusion Our ability to respond promptly to customer inquiries greatly affects our market position, especially during competitive product launches. Moving forward, we need to streamline our response processes and invest in training to ensure we maintain our competitive edge.

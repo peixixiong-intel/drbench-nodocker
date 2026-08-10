@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Enhancing Patient Communication for Service Efficiency
+
+Slide 2:
+Introduction As we continue to grow in the virtual healthcare space, improving patient communication is paramount. This presentation will explore strategies to optimize our communication channels and reduce service calls.
+
+Slide 3:
+Current State of Customer Service Interaction In Q3 2024, our corporate program participants benefitted from pre-negotiated rates and streamlined billing, either charged directly to the employer or subsidised. Analysis of recent call records revealed a significant knowledge gap among patients, with 65% unclear about their specific coverage limitations. For instance, patients were largely unaware of their 5-session-per-year coverage and the distinction between services requiring co-pays versus those fully covered by their employer. Despite this confusion, there is currently no strategy in place to enhance communication and reduce this volume of calls. The lack of clarity in billing and coverage details has led to an increasing number of unnecessary service calls, impacting our overall efficiency. This communication gap not only strains our customer service resources but also risks patient satisfaction and retention. Our current communication strategy may need to consider incorporating AI, given its growing prominence in healthcare patient communication as suggested by industry leaders.
+
+Slide 4:
+Patient Communication Improvement Strategies We aim to provide ongoing staff training on effective communication and empathetic listening Implementing a clearer, more user-friendly interface on our platform Exploring opportunities for enhancing communication through email and text messaging Considering the use of AI to automate routine inquiries Introducing a feedback system for customers to voice their concerns and suggestions Developing a comprehensive FAQ section on our website to address common inquiries Regularly updating our online resources for customer education
+
+Slide 5:
+Anticipated Impact on Service Calls A 10% reduction in service calls is expected with the implementation of a new FAQ section Anticipate an increase in call volume during the initial roll-out of new communication strategies A potential 15% decrease in calls related to appointment scheduling with a more user-friendly interface Expect a surge of inquiries following the launch of any new platform features A 5% reduction in calls routed to the medical team is anticipated with better staff training A significant reduction in waiting times is expected with the use of AI for routine inquiries
+
+Slide 6:
+Conclusion By implementing these patient communication strategies, we can expect to see a significant decrease in service calls. Let's aim to roll out these initiatives by the start of Q1 2025 to assess their effectiveness.

@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Direct-to-Customer Sales Model Impact
+
+Slide 2:
+Introduction As we transition to a direct-to-customer sales model, it's critical to understand its potential effects on our sales operations. This presentation will explore the expected impact on sales cycle duration, conversion rates, and average revenue per customer, specifically in the context of US franchise laws.
+
+Slide 3:
+Overview of Current Sales Operations In 2024, an overwhelming majority of our customers, approximately 87%, engaged with our online vehicle customization tool prior to dealership visits. This high usage rate of our digital tool underscores a significant shift in consumer behavior towards digital-first vehicle exploration and configuration. This trend indicates a high degree of comfort among our customers in using digital platforms to make initial vehicle selections, hinting at potential receptivity towards an entirely digital sales process. The current experience of visiting a dealership after initial online interaction could be streamlined to further enhance user experience and efficiency. A shift to a complete direct-to-customer model could likely capitalize on this existing digital engagement, potentially reducing sales cycle duration and increasing conversion rates. This shift could also potentially increase average revenue per customer by eliminating dealer markups, similar to the profitability seen by Tesla in their direct sales model. However, the shift must be carefully strategized as franchise laws across the U.S may pose potential hurdles, as seen in Tesla's state-by-state battles against auto dealers since 2014.
+
+Slide 4:
+Transitioning to Direct-to-Customer Model The transition will require significant changes in our sales, marketing, and customer service departments A direct-to-customer model may potentially eliminate the need for physical retail locations We will need to invest in a new, more customer-centric CRM system Training will be necessary to familiarize our sales team with the new model The transition is expected to be completed by 2026 We will need to carefully navigate state franchise laws during this transition
+
+Slide 5:
+Predicted Impact on Key Sales Metrics In the first year, we anticipate an increase in marketing costs due to the need to promote the new sales model The direct-to-customer model may initially lead to a decrease in sales volume We may need to hire additional customer service staff to manage increased customer inquiries The new sales model could potentially shorten the sales cycle, but this is not guaranteed The average transaction price of our vehicles may fluctuate during the transition period
+
+Slide 6:
+Conclusion Adopting a direct-to-customer sales model is projected to influence our sales dynamics greatly. As we move ahead, we need to prepare for shorter sales cycles, potential changes in conversion rates, and shifts in average revenue per customer.

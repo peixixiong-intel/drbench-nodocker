@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Emerging Trends in EV Production Landscape
+
+Slide 2:
+Introduction This presentation will explore the developments in battery technology and EV supply chains as indicated by the 2024 iea.org report. We aim to understand how these trends could impact our global production and delivery by Q2 2026.
+
+Slide 3:
+Battery Technology Advancements and Implications Elexion's R&amp;D tracking indicates that as of Q1 2026, 30% of our EV prototypes are powered by emerging battery technologies Specifically, a significant 22% of these prototypes are utilizing solid-state batteries, a technology that enhances energy density and reduces costs Additionally, 8% of our prototypes are equipped with sodium-ion batteries, a promising alternative contributing to diversification in battery technology Despite these advancements, lithium-ion batteries maintain a strong presence, powering 70% of our current prototypes These shifts in battery technology are in line with global trends as highlighted in the 2024 iea.org report, suggesting a strategic alignment with market demands As battery manufacturing expands outside China, our adoption of these emerging technologies could enhance our supply resilience However, the rising demand for minerals essential for battery production could potentially create supply bottlenecks, impacting our EV production and delivery timelines by 2026
+
+Slide 4:
+Evolving Dynamics of EV Supply Chains Examination of Elexion's current supply chain structure and key partners Analysis of EV supply chain challenges during the COVID-19 pandemic Overview of Elexion's contingency plans for supply chain disruptions Discussion on the role of strategic sourcing in Elexion's supply chain management Details on Elexion's logistics and distribution network Review of industry best practices in EV supply chain management
+
+Slide 5:
+Potential Impact on Elexion's Production and Delivery Breakdown of Elexion's production volumes and delivery timelines from 2020 to 2024 Discussion on Elexion's manufacturing efficiency and production capacity utilization Analysis of the impact of tariffs and trade regulations on Elexion's operations Overview of Elexion's commitment to local sourcing and manufacturing Insights on Elexion's customer satisfaction metrics related to delivery performance Review of Elexion's strategies for managing production and delivery risks
+
+Slide 6:
+Conclusion Understanding these emerging trends will enable us to stay competitive and adapt our strategies accordingly. Let's leverage these insights to improve our production processes and delivery systems for a sustainable future.

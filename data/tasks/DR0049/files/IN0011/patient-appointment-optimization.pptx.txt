@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Optimizing Patient Appointment Experience
+
+Slide 2:
+Introduction In light of recent feedback on our appointment booking process, we need to critically examine and identify the areas that require improvement. This presentation aims to evaluate whether our booking tool design or customer support processes are hindering patient experience.
+
+Slide 3:
+Analyzing Patient Feedback on Booking Tools In Q4 2024, 11% of all booking attempts, equating to 5,200 users, discontinued their booking attempt at the coverage verification phase. These users ceased their booking process specifically during provincial health card and supplemental insurance validation. Interestingly, these users made no attempts to contact our support team, implying a potential confusion or frustration with the process. This abandonment could indicate a lack of clarity or user-friendliness in our coverage verification step. This data prompts us to consider the need for a more intuitive interface or additional help resources at this critical juncture in the booking process. We need to investigate if this pattern is consistent across different periods or if it is a unique occurrence in Q4 2024. Understanding the root cause of this issue is vital to improving our platform's usability and overall patient experience.
+
+Slide 4:
+Assessing Efficiency of Customer Support Processes Our customer support team has a 95% satisfaction rate based on post-call surveys Average call wait time in Q4 2021 was under 3 minutes We implemented a new customer support training program in 2021, leading to a 10% improvement in call resolution times Our customer support department received the 'Excellence in Service' award in 2023 We have successfully reduced the number of repeat calls by 15% in the last year On average, customer support representatives resolve issues within the first call 90% of the time
+
+Slide 5:
+Identifying Root Causes for Appointment Booking Issues We have a dedicated team to monitor and address any technical issues with the booking tool Our IT department conducts weekly system checks to ensure the functionality of the booking tool Customer support team is trained to troubleshoot common booking tool problems We regularly update our FAQs and support documents based on common issues reported We have a strong feedback loop between the customer support and product development teams Our product roadmap includes regular updates and improvements to the booking tool
+
+Slide 6:
+Conclusion We've identified key areas in our booking and support processes that require immediate attention. Moving forward, we will implement necessary changes to enhance our patients' overall experience and satisfaction.

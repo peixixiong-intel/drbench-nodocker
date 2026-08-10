@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Physician-Patient Interactions Analysis 2024
+
+Slide 2:
+Introduction In this presentation, we will explore the volume and nature of patient complaints in 2024, focusing on physician-patient interactions. The aim is to understand the areas of improvement and to enhance the patient experience.
+
+Slide 3:
+2024 Patient Feedback Overview In 2024, our customer service team responded to over 14,500 patient feedback tickets 70% of feedback was related to platform usability and accessibility Feedback was collected primarily through online surveys and phone calls The average response time to feedback was two business days We implemented an improved ticketing system in Q2 of 2024 which has helped streamline our feedback process 80% of feedback resulted in actionable changes to our services
+
+Slide 4:
+Insights into Physician Bedside Manner Physician bedside manner is a key component of patient satisfaction We provide our physicians with ongoing training in patient communication 75% of our physicians have received positive feedback on their bedside manner In 2024, we initiated a new bedside manner training program We believe that a positive bedside manner can improve patient outcomes We are committed to maintaining a high standard for physician bedside manner across all our virtual platforms
+
+Slide 5:
+Action Plan for Enhanced Patient Experience We will continue to invest in training programs to enhance physician-patient communication In 2025, we plan to roll out a new patient feedback system to better capture and address concerns Our development team is working on platform enhancements based on patient feedback We are considering partnerships with external consultancies to improve our patient experience By Q3 of 2025, we aim to decrease our average feedback response time by 15% Our goal is to achieve a 90% satisfaction rate across all our virtual platforms by the end of 2025
+
+Slide 6:
+Conclusion From the analysis, we have identified key areas for improvement in physician bedside manners. Moving forward, we will implement targeted training to better our services and improve overall patient satisfaction.

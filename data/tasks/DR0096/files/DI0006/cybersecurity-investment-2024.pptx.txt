@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Cybersecurity Investment Analysis 2024
+
+Slide 2:
+Introduction This presentation provides an overview of our cybersecurity investments in 2024. It aims to evaluate our expenditure and highlight its impact on business operations.
+
+Slide 3:
+Overview of Cybersecurity Threats in 2024 Increase in phishing attacks across the retail industry Emergence of AI-based cybersecurity threats Increase in ransomware attacks on medium-sized businesses The rise of supply chain attacks in the retail sector Increase in the use of cloud services, leading to new security vulnerabilities Introduction of new data protection regulations globally
+
+Slide 4:
+Lee's Market Cybersecurity Expenditure in 2024 Significant investment in employee cybersecurity training Increase in cybersecurity insurance coverage Enhanced investment in cybersecurity infrastructure and tools Dedicated teams for cybersecurity risk assessment and management Adoption of AI and Machine Learning in cybersecurity strategies Partnerships with external cybersecurity consultancies for ongoing support
+
+Slide 5:
+Impact of Cybersecurity Investment on Business Significant reduction in successful cyber attacks Improved customer confidence due to enhanced data protection Compliance with new global data protection regulations Increased business resilience against disruptive cyber threats Enhanced protection of critical business data and systems Increased ROI due to reduced losses from cyber threats
+
+Slide 6:
+Conclusion In conclusion, Lee's Market's investment in cybersecurity in 2024 was both necessary and impactful. Moving forward, we should continue to prioritize this area to ensure the protection of our systems and data.

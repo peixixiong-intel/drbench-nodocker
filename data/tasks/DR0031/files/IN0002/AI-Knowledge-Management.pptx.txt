@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+AI-Driven Knowledge Management for Lee's Market
+
+Slide 2:
+Introduction As Lee's Market continues to grow, adopting AI solutions for knowledge management is critical. This presentation explores potential strategies to enhance our customer experience by 2028.
+
+Slide 3:
+Current State of Knowledge Management at Lee's Market Internal data from Q3 2024 indicates that the Quebec City branch is experiencing bottlenecks in the payment and checkout process. The Quebec City store has the lengthiest checkout duration across all Lee's Market stores in Quebec, causing potential customer dissatisfaction. AI implementation could help optimize the checkout process by predicting customer flow, based on historical sales data. By leveraging AI, the Quebec City store can streamline staff management practices, reducing the average checkout time and enhancing the overall customer experience. An improved checkout process through AI can also potentially increase customer loyalty and repeat business, contributing to the company's revenue growth by 2028. The AI-driven strategy for knowledge management will not only help the Quebec City store but also serve as a pilot test for other branches facing similar challenges.
+
+Slide 4:
+Exploring AI Solutions in Retail Knowledge Management Retail industry has been increasingly leveraging AI in their knowledge management systems AI can automate data collection and processing, making systems more efficient Some enterprises are using AI for predictive analytics in their knowledge management AI can help in streamlining inventory management and supply chain operations AI can also enhance security measures in the knowledge management systems AI can help in identifying trends and patterns in customer buying behavior AI in knowledge management can lead to cost savings and increased productivity
+
+Slide 5:
+AI-Driven Strategies: Impact on Customer Experience AI can help in personalizing customer experience by recommending products based on past purchases AI chatbots can provide instant assistance to online customers AI can help in predicting demand and ensuring product availability AI can enhance in-store navigation and product discovery AI can analyze customer feedback and improve service quality AI can automate checkout processes, reducing wait times for customers AI can enable virtual reality shopping experiences for online customers
+
+Slide 6:
+Conclusion Adopting AI-driven knowledge management strategies can significantly enhance our customer experience. As we move forward, exploring implementation of these technologies should be a priority.

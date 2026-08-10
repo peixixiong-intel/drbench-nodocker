@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+ZEV Mandate Compliance: Supply Chain Investments
+
+Slide 2:
+Introduction In response to Canada's revised ZEV mandate, understanding and implementing updated compliance documentation is crucial for Elexion Automotive. This presentation will discuss how we can effectively verify and record supply-chain investment credits by 2026.
+
+Slide 3:
+Overview of Canada’s Revised ZEV Mandate In order to align with Canada's updated ZEV mandate, Elexion Automotive needs to revamp its compliance documentation framework. A critical aspect of this transition involves ensuring our compliance staff are adequately trained on the revised verification protocols. The training scope is expected to encompass approximately 55 of our compliance personnel. These personnel will collectively require around 1,200 hours of training to fully comprehend the new protocols. By Q2 2026, we need to have completed this training to avoid creating audit gaps. The training timeline, in turn, will impact our budget and scheduling decisions for the fiscal year 2026. Therefore, it is crucial that we structure our compliance documentation framework in a manner that allows sufficient time for staff training.
+
+Slide 4:
+Current Compliance Documentation Framework Elexion Automotive uses a GRC software tool for managing documentation The current documentation process involves three departments: procurement, legal, and finance The documentation framework was last updated in 2018 Quarterly audits are conducted to ensure the accuracy of the documentation The existing framework's storage system is cloud-based for easy access All documents in the framework are encrypted to ensure security
+
+Slide 5:
+Proposed Changes to Documentation Framework Introducing a new process for document verification that includes AI technology Integration of blockchain technology for secure and transparent transactions Moving towards a paperless documentation system by 2025 Implementing a new training program for employees to adapt to the changes Upgrading the GRC software tool to a newer version for better performance Implementing a two-factor authentication system for accessing documents
+
+Slide 6:
+Conclusion By aligning our compliance documentation framework with the updated ZEV mandate, Elexion Automotive can ensure proper recording of supply-chain investment credits. Moving forward, let's strategize on implementing these proposed changes for a smooth transition by 2026.

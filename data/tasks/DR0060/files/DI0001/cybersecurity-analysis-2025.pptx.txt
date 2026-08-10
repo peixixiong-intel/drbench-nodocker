@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+MediConn Cybersecurity Analysis: Q1-Q3 2025
+
+Slide 2:
+Introduction This presentation provides a thorough analysis of our cybersecurity measures and practices, focusing particularly on our vulnerability scans conducted between January and September 2025.
+
+Slide 3:
+Cybersecurity Landscape in Virtual Healthcare Rapid digitalization has increased the potential attack surface for cyber threats in the healthcare sector In 2024, the healthcare sector was the most targeted industry for cyber threats The advent of the Internet of Medical Things (IoMT) has introduced new vulnerabilities Regulatory compliance, such as HIPAA and PIPEDA, are becoming more stringent Cybersecurity insurance is becoming a necessity for virtual healthcare providers Traditional security measures such as firewalls and antivirus software are no longer sufficient Investment in cybersecurity is projected to increase by 15% in 2026
+
+Slide 4:
+Vulnerability Scans: Q1-Q3 2025 Overview Vulnerability scans are an essential part of our cybersecurity strategy We use a combination of automated and manual scans to ensure comprehensive coverage Our scans are designed to identify weaknesses in our network, systems, and applications We prioritize remediation efforts based on the severity of the vulnerabilities identified Our vulnerability scanning processes are compliant with industry standards and regulations In addition to scheduled scans, we conduct ad-hoc scans in response to specific threats or incidents Our cybersecurity team regularly reviews and updates our scanning tools and methodologies
+
+Slide 5:
+Improvements &amp; Recommendations for Cybersecurity We recommend implementing a Security Information and Event Management (SIEM) system Regular security awareness training for all staff is crucial We should consider adopting a zero-trust security model An Incident Response Plan (IRP) needs to be developed and regularly updated Implementing multi-factor authentication can significantly reduce the risk of unauthorized access Regular audits of our cybersecurity practices and systems are necessary We should explore the use of Artificial Intelligence (AI) in threat detection and response
+
+Slide 6:
+Conclusion The data analyzed shows our robust commitment to cybersecurity. Moving forward, we recommend increased frequency of vulnerability scans and continued investment in high-quality cybersecurity measures.

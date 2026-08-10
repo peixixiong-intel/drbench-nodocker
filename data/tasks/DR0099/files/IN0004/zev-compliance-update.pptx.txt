@@ -1,0 +1,19 @@
+Presentation with 6 slides:
+
+Slide 1:
+Compliance Framework Update for ZEV Mandate
+
+Slide 2:
+Introduction As we continue to expand our operations, we must align our compliance documentation with the revised Zero Emission Vehicle (ZEV) mandate in Canada. This presentation outlines our proposed strategy to verify and record supply-chain investment credits by 2026.
+
+Slide 3:
+Understanding Canada's Revised ZEV Mandate As of Q1 2026, Elexion Automotive has successfully automated 72% of its supply-chain compliance data capture. The current framework leverages digital traceability systems such as ERP and supplier portals for documentation. The high level of automation reduces the necessity for manual documentation, saving time and resources. However, there's still 28% of the process that remains manual, indicating room for further integration. The remaining integration effort will involve a combination of APIs and supplier onboarding to achieve audit-grade unified reporting. The automation share is a key determinant of the effort needed to update the compliance documentation framework for the revised ZEV mandate. An efficient automation strategy will facilitate verification and recording of supply-chain investment credits under Canada's new regulations.
+
+Slide 4:
+Implications on Elexion Automotive's Supply Chain Outline of Elexion's current global supply chain structure Description of Elexion's vehicle production process Analysis of Elexion's supply chain efficiency metrics Overview of Elexion's supplier relationship management strategies Discussion on potential effects of trade tariffs on Elexion's supply chain
+
+Slide 5:
+Proposed Compliance Documentation Framework Overview of Elexion's current compliance documentation process Examination of best practices for compliance documentation in the auto industry Description of Elexion's internal audit process for compliance Breakdown of resources allocated to Elexion's compliance department Analysis of recent compliance issues Elexion has faced
+
+Slide 6:
+Conclusion Implementing these changes will ensure Elexion Automotive remains compliant with the updated ZEV mandate in Canada. Moving forward, we must consistently review and update our documentation framework to reflect any further regulatory changes.
